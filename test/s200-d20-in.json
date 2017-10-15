@@ -1,0 +1,5317 @@
+{
+    "department": [
+        {
+            "Department_No": "D087",
+            "Department_Name": "H867",
+            "Limit": 3,
+            "GPA_Limit": 1.1069999933242798,
+            "Tags": [
+                "programing",
+                "basketball",
+                "film",
+                "dancing",
+                "running"
+            ],
+            "Schedules": [
+                "Sat.9: 00~10: 00",
+                "Fri.13: 00~14: 00",
+                "Wed.13: 00~14: 00",
+                "Tue.19: 00~20: 00",
+                "Wed.9: 00~10: 00"
+            ]
+        },
+        {
+            "Department_No": "D062",
+            "Department_Name": "H174",
+            "Limit": 1,
+            "GPA_Limit": 2.4739999771118166,
+            "Tags": [
+                "travelling",
+                "hiking",
+                "basketball",
+                "swimming",
+                "English"
+            ],
+            "Schedules": [
+                "Thu.19: 00~20: 00"
+            ]
+        },
+        {
+            "Department_No": "D084",
+            "Department_Name": "K513",
+            "Limit": 11,
+            "GPA_Limit": 2.755000114440918,
+            "Tags": [
+                "hiking",
+                "game",
+                "reading",
+                "English"
+            ],
+            "Schedules": [
+                "Sun.19: 00~20: 00",
+                "Thu.10: 00~11: 00"
+            ]
+        },
+        {
+            "Department_No": "D009",
+            "Department_Name": "S242",
+            "Limit": 4,
+            "GPA_Limit": 2.322000026702881,
+            "Tags": [
+                "basketball",
+                "running",
+                "math",
+                "game"
+            ],
+            "Schedules": [
+                "Fri.10: 00~11: 00",
+                "Sun.16: 00~17: 00",
+                "Mon.20: 00~21: 00",
+                "Wed.19: 00~20: 00"
+            ]
+        },
+        {
+            "Department_No": "D049",
+            "Department_Name": "M054",
+            "Limit": 4,
+            "GPA_Limit": 1.5190000534057618,
+            "Tags": [
+                "hiking",
+                "programing",
+                "document",
+                "painting"
+            ],
+            "Schedules": [
+                "Wed.16: 00~17: 00"
+            ]
+        },
+        {
+            "Department_No": "D081",
+            "Department_Name": "O341",
+            "Limit": 9,
+            "GPA_Limit": 1.4320000410079957,
+            "Tags": [
+                "English",
+                "game",
+                "film",
+                "sports",
+                "basketball"
+            ],
+            "Schedules": [
+                "Wed.13: 00~14: 00",
+                "Mon.16: 00~17: 00",
+                "Fri.21: 00~22: 00"
+            ]
+        },
+        {
+            "Department_No": "D055",
+            "Department_Name": "V496",
+            "Limit": 5,
+            "GPA_Limit": 1.6890000104904175,
+            "Tags": [
+                "travelling",
+                "sports",
+                "programing",
+                "document",
+                "math"
+            ],
+            "Schedules": [
+                "Sun.14: 00~15: 00",
+                "Tue.9: 00~10: 00",
+                "Sat.10: 00~11: 00"
+            ]
+        },
+        {
+            "Department_No": "D046",
+            "Department_Name": "C916",
+            "Limit": 7,
+            "GPA_Limit": 2.496000051498413,
+            "Tags": [
+                "dancing",
+                "running",
+                "painting"
+            ],
+            "Schedules": [
+                "Fri.13: 00~14: 00"
+            ]
+        },
+        {
+            "Department_No": "D092",
+            "Department_Name": "C301",
+            "Limit": 0,
+            "GPA_Limit": 1.7620000839233399,
+            "Tags": [
+                "travelling",
+                "film",
+                "painting"
+            ],
+            "Schedules": [
+                "Thu.9: 00~10: 00",
+                "Mon.19: 00~20: 00"
+            ]
+        },
+        {
+            "Department_No": "D027",
+            "Department_Name": "Q044",
+            "Limit": 9,
+            "GPA_Limit": 2.3480000495910646,
+            "Tags": [
+                "sports",
+                "swimming",
+                "game"
+            ],
+            "Schedules": [
+                "Fri.19: 00~20: 00"
+            ]
+        },
+        {
+            "Department_No": "D091",
+            "Department_Name": "A926",
+            "Limit": 0,
+            "GPA_Limit": 1.0010000467300416,
+            "Tags": [
+                "painting",
+                "film",
+                "English"
+            ],
+            "Schedules": [
+                "Sun.13: 00~14: 00",
+                "Tue.15: 00~16: 00"
+            ]
+        },
+        {
+            "Department_No": "D052",
+            "Department_Name": "T071",
+            "Limit": 2,
+            "GPA_Limit": 2.4690001010894777,
+            "Tags": [
+                "sports",
+                "reading",
+                "travelling",
+                "game",
+                "dancing"
+            ],
+            "Schedules": [
+                "Fri.9: 00~10: 00",
+                "Fri.9: 00~10: 00",
+                "Sun.10: 00~11: 00",
+                "Sat.10: 00~11: 00",
+                "Tue.9: 00~10: 00"
+            ]
+        },
+        {
+            "Department_No": "D063",
+            "Department_Name": "G326",
+            "Limit": 2,
+            "GPA_Limit": 2.9489998817443849,
+            "Tags": [
+                "reading",
+                "basketball",
+                "hiking",
+                "game"
+            ],
+            "Schedules": [
+                "Mon.21: 00~22: 00",
+                "Fri.14: 00~15: 00",
+                "Wed.9: 00~10: 00"
+            ]
+        },
+        {
+            "Department_No": "D013",
+            "Department_Name": "P308",
+            "Limit": 9,
+            "GPA_Limit": 2.9159998893737795,
+            "Tags": [
+                "game",
+                "running",
+                "music",
+                "English"
+            ],
+            "Schedules": [
+                "Tue.21: 00~22: 00",
+                "Tue.15: 00~16: 00"
+            ]
+        },
+        {
+            "Department_No": "D012",
+            "Department_Name": "W026",
+            "Limit": 10,
+            "GPA_Limit": 2.1410000324249269,
+            "Tags": [
+                "dancing",
+                "sports",
+                "painting",
+                "swimming",
+                "film"
+            ],
+            "Schedules": [
+                "Sat.10: 00~11: 00",
+                "Sat.9: 00~10: 00",
+                "Thu.20: 00~21: 00"
+            ]
+        },
+        {
+            "Department_No": "D021",
+            "Department_Name": "I208",
+            "Limit": 4,
+            "GPA_Limit": 2.2909998893737795,
+            "Tags": [
+                "math",
+                "document",
+                "English",
+                "running"
+            ],
+            "Schedules": [
+                "Sun.9: 00~10: 00",
+                "Wed.20: 00~21: 00",
+                "Mon.21: 00~22: 00",
+                "Sat.21: 00~22: 00",
+                "Sat.10: 00~11: 00"
+            ]
+        },
+        {
+            "Department_No": "D035",
+            "Department_Name": "R051",
+            "Limit": 13,
+            "GPA_Limit": 2.015000104904175,
+            "Tags": [
+                "document",
+                "English",
+                "programing"
+            ],
+            "Schedules": [
+                "Mon.16: 00~17: 00",
+                "Thu.15: 00~16: 00",
+                "Thu.10: 00~11: 00",
+                "Fri.15: 00~16: 00",
+                "Fri.20: 00~21: 00"
+            ]
+        },
+        {
+            "Department_No": "D037",
+            "Department_Name": "D244",
+            "Limit": 12,
+            "GPA_Limit": 2.3350000381469728,
+            "Tags": [
+                "travelling",
+                "music",
+                "running"
+            ],
+            "Schedules": [
+                "Sat.10: 00~11: 00",
+                "Tue.13: 00~14: 00",
+                "Tue.9: 00~10: 00",
+                "Mon.14: 00~15: 00",
+                "Mon.13: 00~14: 00"
+            ]
+        },
+        {
+            "Department_No": "D042",
+            "Department_Name": "A043",
+            "Limit": 6,
+            "GPA_Limit": 2.4850001335144045,
+            "Tags": [
+                "film",
+                "reading",
+                "document",
+                "basketball",
+                "hiking"
+            ],
+            "Schedules": [
+                "Wed.9: 00~10: 00",
+                "Wed.9: 00~10: 00",
+                "Sat.10: 00~11: 00"
+            ]
+        },
+        {
+            "Department_No": "D014",
+            "Department_Name": "C106",
+            "Limit": 7,
+            "GPA_Limit": 2.828000068664551,
+            "Tags": [
+                "math",
+                "game",
+                "film",
+                "hiking",
+                "music"
+            ],
+            "Schedules": [
+                "Thu.13: 00~14: 00",
+                "Sat.20: 00~21: 00",
+                "Fri.20: 00~21: 00"
+            ]
+        }
+    ],
+    "student": [
+        {
+            "Student_No": "S031500435",
+            "Student_Name": "B107",
+            "Sex": "male",
+            "GPA": 4.166130065917969,
+            "Tags": [
+                "running",
+                "travelling",
+                "swimming"
+            ],
+            "Free_Time": [
+                "Thu.9: 00~10: 00",
+                "Mon.10: 00~11: 00",
+                "Sat.16: 00~17: 00"
+            ],
+            "Choice": [
+                "D087",
+                "D042"
+            ]
+        },
+        {
+            "Student_No": "S031504347",
+            "Student_Name": "B417",
+            "Sex": "male",
+            "GPA": 2.2808499336242677,
+            "Tags": [
+                "running",
+                "programing"
+            ],
+            "Free_Time": [
+                "Mon.13: 00~14: 00",
+                "Sat.14: 00~15: 00",
+                "Thu.14: 00~15: 00",
+                "Wed.20: 00~21: 00",
+                "Sun.13: 00~14: 00",
+                "Wed.14: 00~15: 00"
+            ],
+            "Choice": [
+                "D062",
+                "D027",
+                "D009",
+                "D055"
+            ]
+        },
+        {
+            "Student_No": "S031501608",
+            "Student_Name": "E165",
+            "Sex": "female",
+            "GPA": 1.276550054550171,
+            "Tags": [
+                "hiking",
+                "English",
+                "dancing",
+                "travelling",
+                "programing"
+            ],
+            "Free_Time": [
+                "Tue.19: 00~20: 00",
+                "Tue.21: 00~22: 00"
+            ],
+            "Choice": [
+                "D087",
+                "D035",
+                "D062"
+            ]
+        },
+        {
+            "Student_No": "S031501014",
+            "Student_Name": "Q559",
+            "Sex": "female",
+            "GPA": 4.308199882507324,
+            "Tags": [
+                "film",
+                "sports",
+                "programing"
+            ],
+            "Free_Time": [
+                "Tue.9: 00~10: 00",
+                "Fri.10: 00~11: 00",
+                "Tue.20: 00~21: 00",
+                "Sat.16: 00~17: 00",
+                "Sat.10: 00~11: 00",
+                "Thu.15: 00~16: 00",
+                "Sun.15: 00~16: 00",
+                "Sat.20: 00~21: 00",
+                "Tue.19: 00~20: 00",
+                "Wed.20: 00~21: 00"
+            ],
+            "Choice": [
+                "D037",
+                "D055",
+                "D027"
+            ]
+        },
+        {
+            "Student_No": "S031506349",
+            "Student_Name": "K382",
+            "Sex": "female",
+            "GPA": 1.0846699476242066,
+            "Tags": [
+                "game",
+                "music",
+                "film",
+                "swimming"
+            ],
+            "Free_Time": [
+                "Sun.14: 00~15: 00",
+                "Sun.9: 00~10: 00",
+                "Thu.14: 00~15: 00",
+                "Tue.14: 00~15: 00",
+                "Sun.21: 00~22: 00",
+                "Tue.20: 00~21: 00"
+            ],
+            "Choice": [
+                "D055",
+                "D062",
+                "D081",
+                "D013"
+            ]
+        },
+        {
+            "Student_No": "S031502637",
+            "Student_Name": "U762",
+            "Sex": "male",
+            "GPA": 1.3043400049209595,
+            "Tags": [
+                "programing",
+                "running",
+                "film"
+            ],
+            "Free_Time": [
+                "Sat.10: 00~11: 00",
+                "Mon.19: 00~20: 00",
+                "Sat.20: 00~21: 00",
+                "Tue.9: 00~10: 00"
+            ],
+            "Choice": [
+                "D035",
+                "D091",
+                "D081",
+                "D012"
+            ]
+        },
+        {
+            "Student_No": "S031502917",
+            "Student_Name": "N065",
+            "Sex": "male",
+            "GPA": 2.2899200916290285,
+            "Tags": [
+                "travelling",
+                "programing",
+                "running"
+            ],
+            "Free_Time": [
+                "Sat.9: 00~10: 00",
+                "Fri.14: 00~15: 00",
+                "Sun.10: 00~11: 00",
+                "Sun.20: 00~21: 00"
+            ],
+            "Choice": [
+                "D052",
+                "D014"
+            ]
+        },
+        {
+            "Student_No": "S031508124",
+            "Student_Name": "B373",
+            "Sex": "male",
+            "GPA": 2.2815699577331545,
+            "Tags": [
+                "math",
+                "game",
+                "sports"
+            ],
+            "Free_Time": [
+                "Mon.15: 00~16: 00",
+                "Wed.15: 00~16: 00"
+            ],
+            "Choice": [
+                "D092",
+                "D014",
+                "D052",
+                "D087"
+            ]
+        },
+        {
+            "Student_No": "S031505831",
+            "Student_Name": "V524",
+            "Sex": "female",
+            "GPA": 2.1899499893188478,
+            "Tags": [
+                "document",
+                "English",
+                "basketball",
+                "hiking"
+            ],
+            "Free_Time": [
+                "Sun.9: 00~10: 00",
+                "Sat.20: 00~21: 00",
+                "Sun.9: 00~10: 00",
+                "Tue.20: 00~21: 00",
+                "Wed.14: 00~15: 00"
+            ],
+            "Choice": [
+                "D042",
+                "D035"
+            ]
+        },
+        {
+            "Student_No": "S031505820",
+            "Student_Name": "R293",
+            "Sex": "male",
+            "GPA": 2.0788700580596926,
+            "Tags": [
+                "basketball",
+                "dancing"
+            ],
+            "Free_Time": [
+                "Mon.9: 00~10: 00",
+                "Mon.15: 00~16: 00",
+                "Mon.21: 00~22: 00",
+                "Mon.16: 00~17: 00",
+                "Thu.21: 00~22: 00",
+                "Wed.19: 00~20: 00",
+                "Tue.15: 00~16: 00"
+            ],
+            "Choice": [
+                "D062",
+                "D027"
+            ]
+        },
+        {
+            "Student_No": "S031506951",
+            "Student_Name": "B486",
+            "Sex": "male",
+            "GPA": 2.3054399490356447,
+            "Tags": [
+                "dancing",
+                "programing"
+            ],
+            "Free_Time": [
+                "Tue.9: 00~10: 00",
+                "Thu.20: 00~21: 00",
+                "Fri.9: 00~10: 00",
+                "Tue.16: 00~17: 00",
+                "Tue.13: 00~14: 00",
+                "Thu.19: 00~20: 00",
+                "Mon.9: 00~10: 00",
+                "Sun.10: 00~11: 00",
+                "Sun.9: 00~10: 00",
+                "Wed.20: 00~21: 00"
+            ],
+            "Choice": [
+                "D052",
+                "D087",
+                "D009",
+                "D027"
+            ]
+        },
+        {
+            "Student_No": "S031502446",
+            "Student_Name": "B552",
+            "Sex": "male",
+            "GPA": 3.2582099437713625,
+            "Tags": [
+                "English",
+                "swimming"
+            ],
+            "Free_Time": [
+                "Thu.19: 00~20: 00",
+                "Mon.9: 00~10: 00",
+                "Thu.16: 00~17: 00",
+                "Thu.13: 00~14: 00",
+                "Tue.9: 00~10: 00",
+                "Mon.9: 00~10: 00",
+                "Mon.14: 00~15: 00",
+                "Sun.9: 00~10: 00"
+            ],
+            "Choice": [
+                "D091",
+                "D035"
+            ]
+        },
+        {
+            "Student_No": "S031504755",
+            "Student_Name": "T160",
+            "Sex": "male",
+            "GPA": 1.0865299701690674,
+            "Tags": [
+                "game",
+                "film",
+                "basketball",
+                "document"
+            ],
+            "Free_Time": [
+                "Sat.15: 00~16: 00",
+                "Wed.14: 00~15: 00"
+            ],
+            "Choice": [
+                "D092",
+                "D049",
+                "D052"
+            ]
+        },
+        {
+            "Student_No": "S031505148",
+            "Student_Name": "B732",
+            "Sex": "male",
+            "GPA": 4.237679958343506,
+            "Tags": [
+                "basketball",
+                "painting",
+                "travelling",
+                "music"
+            ],
+            "Free_Time": [
+                "Tue.15: 00~16: 00",
+                "Thu.9: 00~10: 00"
+            ],
+            "Choice": [
+                "D021",
+                "D081",
+                "D046",
+                "D052"
+            ]
+        },
+        {
+            "Student_No": "S031502714",
+            "Student_Name": "T243",
+            "Sex": "female",
+            "GPA": 3.0064499378204347,
+            "Tags": [
+                "math",
+                "music",
+                "basketball"
+            ],
+            "Free_Time": [
+                "Sun.14: 00~15: 00",
+                "Mon.15: 00~16: 00",
+                "Mon.13: 00~14: 00"
+            ],
+            "Choice": [
+                "D049",
+                "D035",
+                "D084",
+                "D012"
+            ]
+        },
+        {
+            "Student_No": "S031502852",
+            "Student_Name": "D826",
+            "Sex": "male",
+            "GPA": 1.0226399898529053,
+            "Tags": [
+                "travelling",
+                "basketball",
+                "painting",
+                "game",
+                "programing"
+            ],
+            "Free_Time": [
+                "Thu.21: 00~22: 00",
+                "Sat.10: 00~11: 00",
+                "Thu.10: 00~11: 00",
+                "Thu.20: 00~21: 00",
+                "Sat.20: 00~21: 00",
+                "Tue.20: 00~21: 00",
+                "Tue.16: 00~17: 00",
+                "Fri.15: 00~16: 00"
+            ],
+            "Choice": [
+                "D052",
+                "D062",
+                "D087"
+            ]
+        },
+        {
+            "Student_No": "S031504542",
+            "Student_Name": "I478",
+            "Sex": "male",
+            "GPA": 1.0718400478363038,
+            "Tags": [
+                "basketball",
+                "dancing"
+            ],
+            "Free_Time": [
+                "Sun.9: 00~10: 00",
+                "Wed.19: 00~20: 00",
+                "Sun.19: 00~20: 00"
+            ],
+            "Choice": [
+                "D009",
+                "D014",
+                "D081"
+            ]
+        },
+        {
+            "Student_No": "S031506434",
+            "Student_Name": "U002",
+            "Sex": "male",
+            "GPA": 4.213129997253418,
+            "Tags": [
+                "running",
+                "English",
+                "dancing"
+            ],
+            "Free_Time": [
+                "Sun.14: 00~15: 00",
+                "Fri.10: 00~11: 00",
+                "Wed.20: 00~21: 00",
+                "Tue.9: 00~10: 00",
+                "Sun.19: 00~20: 00",
+                "Sat.16: 00~17: 00",
+                "Sun.15: 00~16: 00",
+                "Wed.9: 00~10: 00",
+                "Thu.19: 00~20: 00"
+            ],
+            "Choice": [
+                "D046",
+                "D055",
+                "D084",
+                "D035"
+            ]
+        },
+        {
+            "Student_No": "S031502020",
+            "Student_Name": "F180",
+            "Sex": "male",
+            "GPA": 1.3134499788284302,
+            "Tags": [
+                "basketball",
+                "film",
+                "music",
+                "document"
+            ],
+            "Free_Time": [
+                "Tue.19: 00~20: 00",
+                "Wed.10: 00~11: 00",
+                "Sat.9: 00~10: 00",
+                "Thu.19: 00~20: 00",
+                "Sat.21: 00~22: 00",
+                "Sun.9: 00~10: 00",
+                "Thu.20: 00~21: 00",
+                "Sat.20: 00~21: 00",
+                "Wed.21: 00~22: 00"
+            ],
+            "Choice": [
+                "D063",
+                "D091"
+            ]
+        },
+        {
+            "Student_No": "S031505517",
+            "Student_Name": "G521",
+            "Sex": "male",
+            "GPA": 2.0047199726104738,
+            "Tags": [
+                "music",
+                "travelling",
+                "English",
+                "document",
+                "math"
+            ],
+            "Free_Time": [
+                "Sat.10: 00~11: 00",
+                "Fri.10: 00~11: 00",
+                "Sat.16: 00~17: 00",
+                "Wed.9: 00~10: 00"
+            ],
+            "Choice": [
+                "D091",
+                "D042",
+                "D087",
+                "D062"
+            ]
+        },
+        {
+            "Student_No": "S031506644",
+            "Student_Name": "E230",
+            "Sex": "female",
+            "GPA": 1.2790499925613404,
+            "Tags": [
+                "swimming",
+                "painting",
+                "hiking",
+                "sports"
+            ],
+            "Free_Time": [
+                "Thu.9: 00~10: 00",
+                "Sun.16: 00~17: 00",
+                "Fri.15: 00~16: 00",
+                "Wed.13: 00~14: 00",
+                "Sat.13: 00~14: 00",
+                "Mon.13: 00~14: 00",
+                "Tue.19: 00~20: 00",
+                "Sat.10: 00~11: 00"
+            ],
+            "Choice": [
+                "D037",
+                "D009",
+                "D046",
+                "D021",
+                "D091"
+            ]
+        },
+        {
+            "Student_No": "S031503323",
+            "Student_Name": "B032",
+            "Sex": "female",
+            "GPA": 1.0105700492858887,
+            "Tags": [
+                "running",
+                "programing",
+                "reading",
+                "painting"
+            ],
+            "Free_Time": [
+                "Sat.20: 00~21: 00",
+                "Sun.19: 00~20: 00",
+                "Sat.9: 00~10: 00",
+                "Tue.13: 00~14: 00",
+                "Mon.16: 00~17: 00",
+                "Sun.14: 00~15: 00",
+                "Wed.14: 00~15: 00",
+                "Mon.15: 00~16: 00"
+            ],
+            "Choice": [
+                "D035",
+                "D084",
+                "D009"
+            ]
+        },
+        {
+            "Student_No": "S031503427",
+            "Student_Name": "R034",
+            "Sex": "female",
+            "GPA": 2.2141799926757814,
+            "Tags": [
+                "dancing",
+                "math"
+            ],
+            "Free_Time": [
+                "Wed.19: 00~20: 00",
+                "Sat.14: 00~15: 00",
+                "Sun.10: 00~11: 00",
+                "Thu.20: 00~21: 00"
+            ],
+            "Choice": [
+                "D063",
+                "D035",
+                "D055"
+            ]
+        },
+        {
+            "Student_No": "S031501232",
+            "Student_Name": "Z031",
+            "Sex": "female",
+            "GPA": 2.2370800971984865,
+            "Tags": [
+                "game",
+                "basketball",
+                "swimming",
+                "programing"
+            ],
+            "Free_Time": [
+                "Thu.19: 00~20: 00",
+                "Wed.20: 00~21: 00",
+                "Sun.21: 00~22: 00",
+                "Tue.20: 00~21: 00"
+            ],
+            "Choice": [
+                "D021",
+                "D037"
+            ]
+        },
+        {
+            "Student_No": "S031506736",
+            "Student_Name": "E471",
+            "Sex": "female",
+            "GPA": 1.212399959564209,
+            "Tags": [
+                "reading",
+                "travelling",
+                "music",
+                "swimming"
+            ],
+            "Free_Time": [
+                "Thu.21: 00~22: 00",
+                "Mon.21: 00~22: 00",
+                "Fri.13: 00~14: 00",
+                "Tue.13: 00~14: 00",
+                "Wed.15: 00~16: 00",
+                "Tue.19: 00~20: 00",
+                "Sun.9: 00~10: 00",
+                "Fri.14: 00~15: 00"
+            ],
+            "Choice": [
+                "D035",
+                "D063",
+                "D092",
+                "D052"
+            ]
+        },
+        {
+            "Student_No": "S031507529",
+            "Student_Name": "I235",
+            "Sex": "male",
+            "GPA": 1.1254500150680543,
+            "Tags": [
+                "hiking",
+                "game",
+                "travelling"
+            ],
+            "Free_Time": [
+                "Tue.13: 00~14: 00",
+                "Mon.21: 00~22: 00",
+                "Thu.15: 00~16: 00"
+            ],
+            "Choice": [
+                "D042",
+                "D037",
+                "D055",
+                "D035",
+                "D021"
+            ]
+        },
+        {
+            "Student_No": "S031501919",
+            "Student_Name": "H159",
+            "Sex": "female",
+            "GPA": 2.051719903945923,
+            "Tags": [
+                "sports",
+                "game",
+                "running",
+                "film",
+                "hiking"
+            ],
+            "Free_Time": [
+                "Sat.9: 00~10: 00",
+                "Tue.9: 00~10: 00",
+                "Sat.15: 00~16: 00",
+                "Sun.15: 00~16: 00"
+            ],
+            "Choice": [
+                "D037",
+                "D046"
+            ]
+        },
+        {
+            "Student_No": "S031500906",
+            "Student_Name": "W637",
+            "Sex": "female",
+            "GPA": 4.035019874572754,
+            "Tags": [
+                "running",
+                "game",
+                "travelling",
+                "hiking",
+                "reading"
+            ],
+            "Free_Time": [
+                "Thu.9: 00~10: 00",
+                "Fri.15: 00~16: 00",
+                "Thu.15: 00~16: 00",
+                "Thu.13: 00~14: 00",
+                "Mon.21: 00~22: 00",
+                "Tue.15: 00~16: 00",
+                "Fri.10: 00~11: 00",
+                "Tue.19: 00~20: 00"
+            ],
+            "Choice": [
+                "D021",
+                "D063",
+                "D092",
+                "D014",
+                "D081"
+            ]
+        },
+        {
+            "Student_No": "S031502355",
+            "Student_Name": "B188",
+            "Sex": "female",
+            "GPA": 4.277009963989258,
+            "Tags": [
+                "travelling",
+                "swimming",
+                "math",
+                "basketball",
+                "music"
+            ],
+            "Free_Time": [
+                "Mon.9: 00~10: 00",
+                "Sat.13: 00~14: 00",
+                "Sun.13: 00~14: 00",
+                "Fri.13: 00~14: 00",
+                "Wed.19: 00~20: 00",
+                "Fri.21: 00~22: 00",
+                "Tue.20: 00~21: 00",
+                "Fri.20: 00~21: 00",
+                "Thu.15: 00~16: 00",
+                "Fri.9: 00~10: 00"
+            ],
+            "Choice": [
+                "D014",
+                "D042",
+                "D092",
+                "D021",
+                "D081"
+            ]
+        },
+        {
+            "Student_No": "S031500713",
+            "Student_Name": "P408",
+            "Sex": "male",
+            "GPA": 2.0052499771118166,
+            "Tags": [
+                "running",
+                "music"
+            ],
+            "Free_Time": [
+                "Tue.9: 00~10: 00",
+                "Sat.13: 00~14: 00",
+                "Wed.21: 00~22: 00",
+                "Mon.19: 00~20: 00",
+                "Thu.19: 00~20: 00",
+                "Sat.9: 00~10: 00",
+                "Wed.15: 00~16: 00"
+            ],
+            "Choice": [
+                "D052",
+                "D081"
+            ]
+        },
+        {
+            "Student_No": "S031502905",
+            "Student_Name": "N922",
+            "Sex": "male",
+            "GPA": 3.126929998397827,
+            "Tags": [
+                "painting",
+                "music"
+            ],
+            "Free_Time": [
+                "Sat.21: 00~22: 00",
+                "Sat.20: 00~21: 00",
+                "Sun.13: 00~14: 00",
+                "Thu.9: 00~10: 00",
+                "Tue.20: 00~21: 00",
+                "Wed.21: 00~22: 00",
+                "Thu.9: 00~10: 00",
+                "Fri.10: 00~11: 00"
+            ],
+            "Choice": [
+                "D035",
+                "D037",
+                "D087",
+                "D009"
+            ]
+        },
+        {
+            "Student_No": "S031503455",
+            "Student_Name": "G350",
+            "Sex": "male",
+            "GPA": 3.1271700859069826,
+            "Tags": [
+                "reading",
+                "travelling",
+                "basketball",
+                "dancing",
+                "programing"
+            ],
+            "Free_Time": [
+                "Sat.9: 00~10: 00",
+                "Sun.20: 00~21: 00",
+                "Fri.9: 00~10: 00"
+            ],
+            "Choice": [
+                "D013",
+                "D046",
+                "D042"
+            ]
+        },
+        {
+            "Student_No": "S031502306",
+            "Student_Name": "Z244",
+            "Sex": "female",
+            "GPA": 4.167910099029541,
+            "Tags": [
+                "hiking",
+                "document",
+                "music"
+            ],
+            "Free_Time": [
+                "Sat.9: 00~10: 00",
+                "Wed.9: 00~10: 00",
+                "Sun.16: 00~17: 00",
+                "Tue.10: 00~11: 00",
+                "Mon.9: 00~10: 00",
+                "Mon.15: 00~16: 00"
+            ],
+            "Choice": [
+                "D009",
+                "D035",
+                "D092",
+                "D091",
+                "D081"
+            ]
+        },
+        {
+            "Student_No": "S031501222",
+            "Student_Name": "J446",
+            "Sex": "male",
+            "GPA": 3.1975700855255129,
+            "Tags": [
+                "running",
+                "music",
+                "game"
+            ],
+            "Free_Time": [
+                "Sun.16: 00~17: 00",
+                "Fri.13: 00~14: 00",
+                "Sat.21: 00~22: 00",
+                "Tue.15: 00~16: 00",
+                "Mon.9: 00~10: 00",
+                "Tue.10: 00~11: 00",
+                "Mon.14: 00~15: 00",
+                "Mon.9: 00~10: 00",
+                "Tue.9: 00~10: 00",
+                "Tue.19: 00~20: 00"
+            ],
+            "Choice": [
+                "D087",
+                "D063"
+            ]
+        },
+        {
+            "Student_No": "S031504607",
+            "Student_Name": "B221",
+            "Sex": "male",
+            "GPA": 2.2773900032043459,
+            "Tags": [
+                "music",
+                "basketball",
+                "document"
+            ],
+            "Free_Time": [
+                "Sat.9: 00~10: 00",
+                "Sat.20: 00~21: 00",
+                "Mon.16: 00~17: 00",
+                "Tue.16: 00~17: 00",
+                "Wed.10: 00~11: 00",
+                "Fri.15: 00~16: 00",
+                "Mon.20: 00~21: 00",
+                "Tue.9: 00~10: 00"
+            ],
+            "Choice": [
+                "D055",
+                "D087",
+                "D035",
+                "D081",
+                "D042"
+            ]
+        },
+        {
+            "Student_No": "S031508055",
+            "Student_Name": "H210",
+            "Sex": "male",
+            "GPA": 1.1245900392532349,
+            "Tags": [
+                "game",
+                "travelling",
+                "English"
+            ],
+            "Free_Time": [
+                "Fri.15: 00~16: 00",
+                "Sat.13: 00~14: 00"
+            ],
+            "Choice": [
+                "D062",
+                "D087",
+                "D027",
+                "D081",
+                "D012"
+            ]
+        },
+        {
+            "Student_No": "S031503749",
+            "Student_Name": "P313",
+            "Sex": "female",
+            "GPA": 1.1377099752426148,
+            "Tags": [
+                "painting",
+                "film",
+                "hiking",
+                "sports"
+            ],
+            "Free_Time": [
+                "Fri.20: 00~21: 00",
+                "Sat.19: 00~20: 00",
+                "Thu.15: 00~16: 00",
+                "Mon.9: 00~10: 00"
+            ],
+            "Choice": [
+                "D063",
+                "D062",
+                "D092",
+                "D037"
+            ]
+        },
+        {
+            "Student_No": "S031500642",
+            "Student_Name": "T515",
+            "Sex": "male",
+            "GPA": 3.1030800342559816,
+            "Tags": [
+                "document",
+                "dancing"
+            ],
+            "Free_Time": [
+                "Thu.16: 00~17: 00",
+                "Mon.10: 00~11: 00",
+                "Wed.9: 00~10: 00"
+            ],
+            "Choice": [
+                "D027",
+                "D087",
+                "D037"
+            ]
+        },
+        {
+            "Student_No": "S031507640",
+            "Student_Name": "K297",
+            "Sex": "female",
+            "GPA": 2.0216100215911867,
+            "Tags": [
+                "basketball",
+                "hiking",
+                "running",
+                "film",
+                "swimming"
+            ],
+            "Free_Time": [
+                "Tue.13: 00~14: 00",
+                "Thu.9: 00~10: 00",
+                "Sun.10: 00~11: 00",
+                "Sat.16: 00~17: 00",
+                "Sat.13: 00~14: 00",
+                "Thu.10: 00~11: 00",
+                "Sun.9: 00~10: 00"
+            ],
+            "Choice": [
+                "D013",
+                "D037",
+                "D046"
+            ]
+        },
+        {
+            "Student_No": "S031508038",
+            "Student_Name": "Z468",
+            "Sex": "female",
+            "GPA": 3.098020076751709,
+            "Tags": [
+                "game",
+                "English"
+            ],
+            "Free_Time": [
+                "Mon.21: 00~22: 00",
+                "Fri.21: 00~22: 00",
+                "Wed.21: 00~22: 00",
+                "Fri.15: 00~16: 00",
+                "Sun.9: 00~10: 00"
+            ],
+            "Choice": [
+                "D063",
+                "D091"
+            ]
+        },
+        {
+            "Student_No": "S031500729",
+            "Student_Name": "M335",
+            "Sex": "male",
+            "GPA": 4.291609764099121,
+            "Tags": [
+                "math",
+                "document"
+            ],
+            "Free_Time": [
+                "Tue.16: 00~17: 00",
+                "Mon.13: 00~14: 00",
+                "Sun.16: 00~17: 00",
+                "Wed.20: 00~21: 00",
+                "Sat.13: 00~14: 00",
+                "Thu.20: 00~21: 00",
+                "Sat.15: 00~16: 00",
+                "Wed.15: 00~16: 00",
+                "Mon.14: 00~15: 00",
+                "Thu.13: 00~14: 00"
+            ],
+            "Choice": [
+                "D055",
+                "D013"
+            ]
+        },
+        {
+            "Student_No": "S031504049",
+            "Student_Name": "Y566",
+            "Sex": "female",
+            "GPA": 2.209120035171509,
+            "Tags": [
+                "film",
+                "basketball"
+            ],
+            "Free_Time": [
+                "Fri.9: 00~10: 00",
+                "Tue.10: 00~11: 00",
+                "Sun.16: 00~17: 00",
+                "Thu.16: 00~17: 00",
+                "Tue.15: 00~16: 00",
+                "Mon.10: 00~11: 00"
+            ],
+            "Choice": [
+                "D042",
+                "D013"
+            ]
+        },
+        {
+            "Student_No": "S031504005",
+            "Student_Name": "V370",
+            "Sex": "female",
+            "GPA": 2.1862099170684816,
+            "Tags": [
+                "film",
+                "music"
+            ],
+            "Free_Time": [
+                "Sun.9: 00~10: 00",
+                "Sat.10: 00~11: 00",
+                "Tue.9: 00~10: 00",
+                "Thu.20: 00~21: 00",
+                "Mon.16: 00~17: 00"
+            ],
+            "Choice": [
+                "D081",
+                "D091",
+                "D027",
+                "D087",
+                "D084"
+            ]
+        },
+        {
+            "Student_No": "S031508933",
+            "Student_Name": "G562",
+            "Sex": "female",
+            "GPA": 2.3214900493621828,
+            "Tags": [
+                "programing",
+                "film"
+            ],
+            "Free_Time": [
+                "Sat.14: 00~15: 00",
+                "Thu.9: 00~10: 00",
+                "Mon.9: 00~10: 00",
+                "Mon.19: 00~20: 00"
+            ],
+            "Choice": [
+                "D052",
+                "D014",
+                "D084"
+            ]
+        },
+        {
+            "Student_No": "S031500541",
+            "Student_Name": "N382",
+            "Sex": "female",
+            "GPA": 4.118450164794922,
+            "Tags": [
+                "game",
+                "math",
+                "dancing",
+                "English",
+                "reading"
+            ],
+            "Free_Time": [
+                "Wed.19: 00~20: 00",
+                "Mon.16: 00~17: 00",
+                "Thu.13: 00~14: 00",
+                "Sun.10: 00~11: 00",
+                "Sun.9: 00~10: 00"
+            ],
+            "Choice": [
+                "D009",
+                "D013"
+            ]
+        },
+        {
+            "Student_No": "S031506137",
+            "Student_Name": "H079",
+            "Sex": "male",
+            "GPA": 4.130549907684326,
+            "Tags": [
+                "film",
+                "document",
+                "music"
+            ],
+            "Free_Time": [
+                "Fri.14: 00~15: 00",
+                "Sun.9: 00~10: 00"
+            ],
+            "Choice": [
+                "D055",
+                "D092",
+                "D042"
+            ]
+        },
+        {
+            "Student_No": "S031508844",
+            "Student_Name": "I140",
+            "Sex": "female",
+            "GPA": 4.108059883117676,
+            "Tags": [
+                "reading",
+                "basketball",
+                "running"
+            ],
+            "Free_Time": [
+                "Sat.13: 00~14: 00",
+                "Thu.15: 00~16: 00",
+                "Tue.15: 00~16: 00",
+                "Fri.16: 00~17: 00",
+                "Fri.9: 00~10: 00"
+            ],
+            "Choice": [
+                "D014",
+                "D013"
+            ]
+        },
+        {
+            "Student_No": "S031504524",
+            "Student_Name": "R725",
+            "Sex": "female",
+            "GPA": 3.046370029449463,
+            "Tags": [
+                "painting",
+                "basketball"
+            ],
+            "Free_Time": [
+                "Fri.9: 00~10: 00",
+                "Mon.19: 00~20: 00",
+                "Mon.13: 00~14: 00",
+                "Wed.19: 00~20: 00",
+                "Sat.13: 00~14: 00",
+                "Mon.9: 00~10: 00",
+                "Tue.19: 00~20: 00",
+                "Tue.14: 00~15: 00",
+                "Tue.9: 00~10: 00",
+                "Mon.16: 00~17: 00"
+            ],
+            "Choice": [
+                "D013",
+                "D049",
+                "D055"
+            ]
+        },
+        {
+            "Student_No": "S031508152",
+            "Student_Name": "U978",
+            "Sex": "male",
+            "GPA": 2.0841400623321535,
+            "Tags": [
+                "English",
+                "basketball",
+                "dancing",
+                "travelling",
+                "swimming"
+            ],
+            "Free_Time": [
+                "Fri.14: 00~15: 00",
+                "Mon.9: 00~10: 00",
+                "Thu.15: 00~16: 00"
+            ],
+            "Choice": [
+                "D037",
+                "D062",
+                "D027",
+                "D049",
+                "D091"
+            ]
+        },
+        {
+            "Student_No": "S031501149",
+            "Student_Name": "U364",
+            "Sex": "male",
+            "GPA": 4.011529922485352,
+            "Tags": [
+                "math",
+                "film",
+                "game",
+                "English",
+                "document"
+            ],
+            "Free_Time": [
+                "Thu.21: 00~22: 00",
+                "Fri.15: 00~16: 00",
+                "Sat.20: 00~21: 00"
+            ],
+            "Choice": [
+                "D009",
+                "D021"
+            ]
+        },
+        {
+            "Student_No": "S031507747",
+            "Student_Name": "M520",
+            "Sex": "male",
+            "GPA": 3.1154000759124758,
+            "Tags": [
+                "hiking",
+                "document"
+            ],
+            "Free_Time": [
+                "Mon.16: 00~17: 00",
+                "Wed.14: 00~15: 00",
+                "Fri.16: 00~17: 00",
+                "Fri.15: 00~16: 00",
+                "Tue.10: 00~11: 00",
+                "Fri.19: 00~20: 00",
+                "Sat.10: 00~11: 00",
+                "Mon.21: 00~22: 00"
+            ],
+            "Choice": [
+                "D014",
+                "D042",
+                "D046",
+                "D013"
+            ]
+        },
+        {
+            "Student_No": "S031500014",
+            "Student_Name": "Q396",
+            "Sex": "female",
+            "GPA": 4.308060169219971,
+            "Tags": [
+                "game",
+                "film",
+                "painting",
+                "dancing"
+            ],
+            "Free_Time": [
+                "Tue.21: 00~22: 00",
+                "Fri.14: 00~15: 00",
+                "Thu.15: 00~16: 00",
+                "Fri.10: 00~11: 00",
+                "Thu.9: 00~10: 00",
+                "Thu.14: 00~15: 00",
+                "Mon.21: 00~22: 00"
+            ],
+            "Choice": [
+                "D035",
+                "D049",
+                "D013"
+            ]
+        },
+        {
+            "Student_No": "S031507024",
+            "Student_Name": "X528",
+            "Sex": "female",
+            "GPA": 1.0658700466156006,
+            "Tags": [
+                "painting",
+                "swimming"
+            ],
+            "Free_Time": [
+                "Tue.16: 00~17: 00",
+                "Tue.14: 00~15: 00",
+                "Fri.15: 00~16: 00",
+                "Sat.10: 00~11: 00"
+            ],
+            "Choice": [
+                "D055",
+                "D021",
+                "D091",
+                "D014",
+                "D092"
+            ]
+        },
+        {
+            "Student_No": "S031504339",
+            "Student_Name": "K475",
+            "Sex": "female",
+            "GPA": 3.1492300033569338,
+            "Tags": [
+                "hiking",
+                "swimming",
+                "basketball"
+            ],
+            "Free_Time": [
+                "Fri.21: 00~22: 00",
+                "Sun.14: 00~15: 00",
+                "Sun.20: 00~21: 00",
+                "Mon.13: 00~14: 00"
+            ],
+            "Choice": [
+                "D084",
+                "D092",
+                "D037"
+            ]
+        },
+        {
+            "Student_No": "S031500047",
+            "Student_Name": "V966",
+            "Sex": "male",
+            "GPA": 4.025599956512451,
+            "Tags": [
+                "math",
+                "hiking"
+            ],
+            "Free_Time": [
+                "Sat.13: 00~14: 00",
+                "Sun.19: 00~20: 00",
+                "Wed.10: 00~11: 00",
+                "Tue.21: 00~22: 00",
+                "Mon.16: 00~17: 00",
+                "Thu.19: 00~20: 00",
+                "Sat.9: 00~10: 00"
+            ],
+            "Choice": [
+                "D037",
+                "D046",
+                "D091",
+                "D014"
+            ]
+        },
+        {
+            "Student_No": "S031505205",
+            "Student_Name": "J695",
+            "Sex": "male",
+            "GPA": 3.1383399963378908,
+            "Tags": [
+                "reading",
+                "game",
+                "film"
+            ],
+            "Free_Time": [
+                "Sun.16: 00~17: 00",
+                "Mon.21: 00~22: 00",
+                "Sun.9: 00~10: 00",
+                "Thu.14: 00~15: 00",
+                "Mon.15: 00~16: 00",
+                "Fri.16: 00~17: 00"
+            ],
+            "Choice": [
+                "D009",
+                "D014"
+            ]
+        },
+        {
+            "Student_No": "S031505725",
+            "Student_Name": "Q984",
+            "Sex": "female",
+            "GPA": 4.298230171203613,
+            "Tags": [
+                "hiking",
+                "programing",
+                "basketball",
+                "painting",
+                "swimming"
+            ],
+            "Free_Time": [
+                "Thu.10: 00~11: 00",
+                "Wed.9: 00~10: 00",
+                "Thu.21: 00~22: 00",
+                "Wed.14: 00~15: 00",
+                "Wed.16: 00~17: 00",
+                "Mon.16: 00~17: 00"
+            ],
+            "Choice": [
+                "D087",
+                "D092"
+            ]
+        },
+        {
+            "Student_No": "S031504409",
+            "Student_Name": "A051",
+            "Sex": "male",
+            "GPA": 1.2934199571609498,
+            "Tags": [
+                "basketball",
+                "film"
+            ],
+            "Free_Time": [
+                "Thu.15: 00~16: 00",
+                "Fri.13: 00~14: 00",
+                "Sun.19: 00~20: 00",
+                "Mon.9: 00~10: 00"
+            ],
+            "Choice": [
+                "D084",
+                "D092",
+                "D091",
+                "D027"
+            ]
+        },
+        {
+            "Student_No": "S031507815",
+            "Student_Name": "Y335",
+            "Sex": "female",
+            "GPA": 4.006380081176758,
+            "Tags": [
+                "travelling",
+                "dancing",
+                "document",
+                "hiking"
+            ],
+            "Free_Time": [
+                "Wed.20: 00~21: 00",
+                "Thu.9: 00~10: 00",
+                "Mon.10: 00~11: 00",
+                "Fri.21: 00~22: 00",
+                "Tue.13: 00~14: 00",
+                "Mon.9: 00~10: 00",
+                "Fri.13: 00~14: 00",
+                "Mon.21: 00~22: 00",
+                "Sat.9: 00~10: 00"
+            ],
+            "Choice": [
+                "D012",
+                "D042",
+                "D049",
+                "D035",
+                "D009"
+            ]
+        },
+        {
+            "Student_No": "S031506448",
+            "Student_Name": "M191",
+            "Sex": "male",
+            "GPA": 4.127200126647949,
+            "Tags": [
+                "travelling",
+                "film",
+                "document",
+                "English",
+                "reading"
+            ],
+            "Free_Time": [
+                "Tue.20: 00~21: 00",
+                "Tue.16: 00~17: 00",
+                "Tue.15: 00~16: 00",
+                "Sun.20: 00~21: 00",
+                "Tue.19: 00~20: 00"
+            ],
+            "Choice": [
+                "D091",
+                "D014"
+            ]
+        },
+        {
+            "Student_No": "S031506341",
+            "Student_Name": "T243",
+            "Sex": "male",
+            "GPA": 4.231989860534668,
+            "Tags": [
+                "math",
+                "game",
+                "travelling",
+                "dancing",
+                "basketball"
+            ],
+            "Free_Time": [
+                "Fri.20: 00~21: 00",
+                "Sun.9: 00~10: 00",
+                "Sun.21: 00~22: 00",
+                "Sun.14: 00~15: 00",
+                "Wed.13: 00~14: 00"
+            ],
+            "Choice": [
+                "D042",
+                "D014",
+                "D021",
+                "D063"
+            ]
+        },
+        {
+            "Student_No": "S031506357",
+            "Student_Name": "K985",
+            "Sex": "male",
+            "GPA": 4.245240211486816,
+            "Tags": [
+                "swimming",
+                "game",
+                "sports"
+            ],
+            "Free_Time": [
+                "Sat.21: 00~22: 00",
+                "Wed.10: 00~11: 00",
+                "Tue.15: 00~16: 00",
+                "Fri.16: 00~17: 00",
+                "Tue.20: 00~21: 00",
+                "Wed.21: 00~22: 00",
+                "Mon.9: 00~10: 00",
+                "Sat.19: 00~20: 00"
+            ],
+            "Choice": [
+                "D014",
+                "D009",
+                "D037"
+            ]
+        },
+        {
+            "Student_No": "S031506330",
+            "Student_Name": "G378",
+            "Sex": "female",
+            "GPA": 2.1101698875427248,
+            "Tags": [
+                "film",
+                "document",
+                "sports",
+                "programing",
+                "English"
+            ],
+            "Free_Time": [
+                "Sun.13: 00~14: 00",
+                "Wed.13: 00~14: 00",
+                "Tue.21: 00~22: 00",
+                "Mon.14: 00~15: 00",
+                "Wed.9: 00~10: 00",
+                "Sat.19: 00~20: 00",
+                "Mon.21: 00~22: 00"
+            ],
+            "Choice": [
+                "D092",
+                "D062"
+            ]
+        },
+        {
+            "Student_No": "S031502326",
+            "Student_Name": "P221",
+            "Sex": "female",
+            "GPA": 2.2345900535583498,
+            "Tags": [
+                "running",
+                "travelling"
+            ],
+            "Free_Time": [
+                "Thu.10: 00~11: 00",
+                "Tue.19: 00~20: 00",
+                "Fri.20: 00~21: 00",
+                "Mon.9: 00~10: 00",
+                "Sun.9: 00~10: 00",
+                "Wed.9: 00~10: 00",
+                "Sun.13: 00~14: 00",
+                "Wed.21: 00~22: 00"
+            ],
+            "Choice": [
+                "D046",
+                "D063",
+                "D012"
+            ]
+        },
+        {
+            "Student_No": "S031502049",
+            "Student_Name": "E421",
+            "Sex": "female",
+            "GPA": 4.2993998527526859,
+            "Tags": [
+                "sports",
+                "programing"
+            ],
+            "Free_Time": [
+                "Sun.9: 00~10: 00",
+                "Tue.16: 00~17: 00",
+                "Tue.9: 00~10: 00",
+                "Wed.15: 00~16: 00",
+                "Tue.10: 00~11: 00"
+            ],
+            "Choice": [
+                "D009",
+                "D062"
+            ]
+        },
+        {
+            "Student_No": "S031506251",
+            "Student_Name": "P988",
+            "Sex": "female",
+            "GPA": 3.1832399368286135,
+            "Tags": [
+                "sports",
+                "swimming"
+            ],
+            "Free_Time": [
+                "Tue.10: 00~11: 00",
+                "Sat.14: 00~15: 00"
+            ],
+            "Choice": [
+                "D014",
+                "D035",
+                "D052",
+                "D037"
+            ]
+        },
+        {
+            "Student_No": "S031502028",
+            "Student_Name": "D120",
+            "Sex": "male",
+            "GPA": 2.0520899295806886,
+            "Tags": [
+                "programing",
+                "hiking",
+                "travelling",
+                "music",
+                "math"
+            ],
+            "Free_Time": [
+                "Sat.19: 00~20: 00",
+                "Tue.21: 00~22: 00",
+                "Fri.10: 00~11: 00",
+                "Tue.9: 00~10: 00",
+                "Tue.13: 00~14: 00"
+            ],
+            "Choice": [
+                "D035",
+                "D092",
+                "D052",
+                "D049",
+                "D055"
+            ]
+        },
+        {
+            "Student_No": "S031508606",
+            "Student_Name": "W599",
+            "Sex": "female",
+            "GPA": 1.1743700504302979,
+            "Tags": [
+                "swimming",
+                "film"
+            ],
+            "Free_Time": [
+                "Thu.10: 00~11: 00",
+                "Sat.13: 00~14: 00"
+            ],
+            "Choice": [
+                "D087",
+                "D081",
+                "D009",
+                "D084",
+                "D013"
+            ]
+        },
+        {
+            "Student_No": "S031503029",
+            "Student_Name": "X761",
+            "Sex": "male",
+            "GPA": 2.1774299144744875,
+            "Tags": [
+                "hiking",
+                "dancing",
+                "swimming"
+            ],
+            "Free_Time": [
+                "Mon.19: 00~20: 00",
+                "Mon.21: 00~22: 00",
+                "Sat.10: 00~11: 00",
+                "Mon.16: 00~17: 00",
+                "Wed.13: 00~14: 00",
+                "Tue.9: 00~10: 00",
+                "Fri.20: 00~21: 00",
+                "Sat.21: 00~22: 00"
+            ],
+            "Choice": [
+                "D037",
+                "D014",
+                "D009"
+            ]
+        },
+        {
+            "Student_No": "S031505423",
+            "Student_Name": "D209",
+            "Sex": "male",
+            "GPA": 2.2823500633239748,
+            "Tags": [
+                "film",
+                "dancing"
+            ],
+            "Free_Time": [
+                "Mon.15: 00~16: 00",
+                "Thu.9: 00~10: 00",
+                "Sun.14: 00~15: 00"
+            ],
+            "Choice": [
+                "D046",
+                "D063",
+                "D087"
+            ]
+        },
+        {
+            "Student_No": "S031502648",
+            "Student_Name": "L358",
+            "Sex": "female",
+            "GPA": 2.214600086212158,
+            "Tags": [
+                "travelling",
+                "swimming",
+                "running",
+                "dancing"
+            ],
+            "Free_Time": [
+                "Sun.16: 00~17: 00",
+                "Fri.9: 00~10: 00",
+                "Fri.14: 00~15: 00"
+            ],
+            "Choice": [
+                "D027",
+                "D021",
+                "D055",
+                "D062"
+            ]
+        },
+        {
+            "Student_No": "S031506614",
+            "Student_Name": "O320",
+            "Sex": "male",
+            "GPA": 3.243760108947754,
+            "Tags": [
+                "programing",
+                "film",
+                "game",
+                "hiking"
+            ],
+            "Free_Time": [
+                "Tue.9: 00~10: 00",
+                "Fri.21: 00~22: 00",
+                "Wed.13: 00~14: 00",
+                "Thu.9: 00~10: 00",
+                "Sat.21: 00~22: 00"
+            ],
+            "Choice": [
+                "D055",
+                "D013"
+            ]
+        },
+        {
+            "Student_No": "S031505242",
+            "Student_Name": "V612",
+            "Sex": "female",
+            "GPA": 4.172490119934082,
+            "Tags": [
+                "painting",
+                "game",
+                "basketball"
+            ],
+            "Free_Time": [
+                "Wed.15: 00~16: 00",
+                "Fri.10: 00~11: 00",
+                "Thu.9: 00~10: 00"
+            ],
+            "Choice": [
+                "D062",
+                "D042",
+                "D021",
+                "D014",
+                "D035"
+            ]
+        },
+        {
+            "Student_No": "S031503942",
+            "Student_Name": "Z350",
+            "Sex": "female",
+            "GPA": 1.0105899572372437,
+            "Tags": [
+                "dancing",
+                "travelling",
+                "programing"
+            ],
+            "Free_Time": [
+                "Fri.15: 00~16: 00",
+                "Sat.19: 00~20: 00"
+            ],
+            "Choice": [
+                "D055",
+                "D091",
+                "D037"
+            ]
+        },
+        {
+            "Student_No": "S031500907",
+            "Student_Name": "F694",
+            "Sex": "female",
+            "GPA": 3.088510036468506,
+            "Tags": [
+                "game",
+                "basketball"
+            ],
+            "Free_Time": [
+                "Sun.15: 00~16: 00",
+                "Tue.20: 00~21: 00"
+            ],
+            "Choice": [
+                "D091",
+                "D037"
+            ]
+        },
+        {
+            "Student_No": "S031504627",
+            "Student_Name": "Z268",
+            "Sex": "male",
+            "GPA": 3.018739938735962,
+            "Tags": [
+                "English",
+                "swimming",
+                "dancing",
+                "game",
+                "music"
+            ],
+            "Free_Time": [
+                "Mon.19: 00~20: 00",
+                "Wed.14: 00~15: 00",
+                "Sat.16: 00~17: 00",
+                "Fri.9: 00~10: 00",
+                "Sat.10: 00~11: 00",
+                "Fri.10: 00~11: 00",
+                "Mon.9: 00~10: 00"
+            ],
+            "Choice": [
+                "D087",
+                "D084",
+                "D049",
+                "D092",
+                "D055"
+            ]
+        },
+        {
+            "Student_No": "S031503456",
+            "Student_Name": "M131",
+            "Sex": "female",
+            "GPA": 3.001919984817505,
+            "Tags": [
+                "document",
+                "hiking"
+            ],
+            "Free_Time": [
+                "Tue.20: 00~21: 00",
+                "Sat.20: 00~21: 00",
+                "Wed.9: 00~10: 00",
+                "Tue.19: 00~20: 00",
+                "Fri.20: 00~21: 00",
+                "Fri.9: 00~10: 00"
+            ],
+            "Choice": [
+                "D081",
+                "D021",
+                "D013"
+            ]
+        },
+        {
+            "Student_No": "S031501044",
+            "Student_Name": "Z759",
+            "Sex": "male",
+            "GPA": 3.199160099029541,
+            "Tags": [
+                "sports",
+                "film"
+            ],
+            "Free_Time": [
+                "Fri.9: 00~10: 00",
+                "Sat.15: 00~16: 00",
+                "Mon.14: 00~15: 00",
+                "Tue.13: 00~14: 00",
+                "Thu.10: 00~11: 00"
+            ],
+            "Choice": [
+                "D042",
+                "D009",
+                "D081",
+                "D012"
+            ]
+        },
+        {
+            "Student_No": "S031502738",
+            "Student_Name": "T508",
+            "Sex": "female",
+            "GPA": 2.0022099018096926,
+            "Tags": [
+                "programing",
+                "document",
+                "reading",
+                "music"
+            ],
+            "Free_Time": [
+                "Sun.15: 00~16: 00",
+                "Mon.9: 00~10: 00",
+                "Tue.10: 00~11: 00",
+                "Wed.16: 00~17: 00",
+                "Sun.16: 00~17: 00",
+                "Fri.14: 00~15: 00",
+                "Fri.9: 00~10: 00",
+                "Wed.19: 00~20: 00"
+            ],
+            "Choice": [
+                "D052",
+                "D013",
+                "D037"
+            ]
+        },
+        {
+            "Student_No": "S031501746",
+            "Student_Name": "U209",
+            "Sex": "female",
+            "GPA": 4.011690139770508,
+            "Tags": [
+                "game",
+                "sports",
+                "math",
+                "running",
+                "programing"
+            ],
+            "Free_Time": [
+                "Thu.15: 00~16: 00",
+                "Sat.15: 00~16: 00"
+            ],
+            "Choice": [
+                "D055",
+                "D092",
+                "D009",
+                "D081"
+            ]
+        },
+        {
+            "Student_No": "S031507520",
+            "Student_Name": "Y334",
+            "Sex": "male",
+            "GPA": 1.118499994277954,
+            "Tags": [
+                "running",
+                "basketball"
+            ],
+            "Free_Time": [
+                "Sun.19: 00~20: 00",
+                "Sat.13: 00~14: 00"
+            ],
+            "Choice": [
+                "D035",
+                "D042",
+                "D013",
+                "D046",
+                "D021"
+            ]
+        },
+        {
+            "Student_No": "S031503322",
+            "Student_Name": "H710",
+            "Sex": "male",
+            "GPA": 3.094559907913208,
+            "Tags": [
+                "running",
+                "painting"
+            ],
+            "Free_Time": [
+                "Fri.14: 00~15: 00",
+                "Thu.9: 00~10: 00",
+                "Sun.13: 00~14: 00",
+                "Thu.9: 00~10: 00",
+                "Mon.15: 00~16: 00",
+                "Sun.16: 00~17: 00",
+                "Mon.20: 00~21: 00",
+                "Fri.16: 00~17: 00",
+                "Tue.9: 00~10: 00"
+            ],
+            "Choice": [
+                "D092",
+                "D046"
+            ]
+        },
+        {
+            "Student_No": "S031501308",
+            "Student_Name": "E429",
+            "Sex": "female",
+            "GPA": 2.2272799015045168,
+            "Tags": [
+                "reading",
+                "painting",
+                "running",
+                "English",
+                "programing"
+            ],
+            "Free_Time": [
+                "Fri.19: 00~20: 00",
+                "Fri.10: 00~11: 00",
+                "Wed.9: 00~10: 00",
+                "Mon.9: 00~10: 00",
+                "Tue.16: 00~17: 00",
+                "Sun.9: 00~10: 00",
+                "Thu.10: 00~11: 00",
+                "Sun.10: 00~11: 00",
+                "Fri.13: 00~14: 00"
+            ],
+            "Choice": [
+                "D037",
+                "D081",
+                "D035"
+            ]
+        },
+        {
+            "Student_No": "S031501354",
+            "Student_Name": "M307",
+            "Sex": "male",
+            "GPA": 3.080509901046753,
+            "Tags": [
+                "programing",
+                "hiking",
+                "swimming",
+                "painting"
+            ],
+            "Free_Time": [
+                "Wed.21: 00~22: 00",
+                "Mon.14: 00~15: 00",
+                "Wed.9: 00~10: 00",
+                "Tue.10: 00~11: 00",
+                "Fri.9: 00~10: 00",
+                "Wed.19: 00~20: 00",
+                "Wed.16: 00~17: 00"
+            ],
+            "Choice": [
+                "D091",
+                "D021",
+                "D046",
+                "D081"
+            ]
+        },
+        {
+            "Student_No": "S031504032",
+            "Student_Name": "G096",
+            "Sex": "female",
+            "GPA": 4.217820167541504,
+            "Tags": [
+                "sports",
+                "film",
+                "programing",
+                "running",
+                "painting"
+            ],
+            "Free_Time": [
+                "Wed.15: 00~16: 00",
+                "Mon.15: 00~16: 00",
+                "Sun.9: 00~10: 00",
+                "Fri.21: 00~22: 00",
+                "Tue.15: 00~16: 00",
+                "Mon.13: 00~14: 00",
+                "Tue.9: 00~10: 00",
+                "Thu.9: 00~10: 00"
+            ],
+            "Choice": [
+                "D092",
+                "D012",
+                "D081"
+            ]
+        },
+        {
+            "Student_No": "S031503060",
+            "Student_Name": "S747",
+            "Sex": "female",
+            "GPA": 4.29787015914917,
+            "Tags": [
+                "reading",
+                "hiking",
+                "document"
+            ],
+            "Free_Time": [
+                "Sun.13: 00~14: 00",
+                "Thu.13: 00~14: 00",
+                "Mon.14: 00~15: 00",
+                "Sat.9: 00~10: 00",
+                "Wed.20: 00~21: 00",
+                "Tue.21: 00~22: 00"
+            ],
+            "Choice": [
+                "D092",
+                "D042",
+                "D037",
+                "D021"
+            ]
+        },
+        {
+            "Student_No": "S031502227",
+            "Student_Name": "N329",
+            "Sex": "male",
+            "GPA": 1.219480037689209,
+            "Tags": [
+                "basketball",
+                "painting",
+                "sports"
+            ],
+            "Free_Time": [
+                "Thu.15: 00~16: 00",
+                "Wed.9: 00~10: 00",
+                "Wed.15: 00~16: 00",
+                "Sun.19: 00~20: 00",
+                "Thu.19: 00~20: 00"
+            ],
+            "Choice": [
+                "D062",
+                "D091",
+                "D009"
+            ]
+        },
+        {
+            "Student_No": "S031500006",
+            "Student_Name": "L362",
+            "Sex": "female",
+            "GPA": 1.087689995765686,
+            "Tags": [
+                "game",
+                "programing",
+                "swimming"
+            ],
+            "Free_Time": [
+                "Wed.10: 00~11: 00",
+                "Wed.19: 00~20: 00"
+            ],
+            "Choice": [
+                "D009",
+                "D014",
+                "D092",
+                "D062"
+            ]
+        },
+        {
+            "Student_No": "S031504148",
+            "Student_Name": "F143",
+            "Sex": "female",
+            "GPA": 3.1329100131988527,
+            "Tags": [
+                "basketball",
+                "hiking",
+                "sports",
+                "music"
+            ],
+            "Free_Time": [
+                "Thu.10: 00~11: 00",
+                "Sat.15: 00~16: 00"
+            ],
+            "Choice": [
+                "D035",
+                "D021",
+                "D042",
+                "D046",
+                "D009"
+            ]
+        },
+        {
+            "Student_No": "S031507826",
+            "Student_Name": "W408",
+            "Sex": "female",
+            "GPA": 4.061560153961182,
+            "Tags": [
+                "math",
+                "running",
+                "programing",
+                "swimming"
+            ],
+            "Free_Time": [
+                "Wed.20: 00~21: 00",
+                "Sun.20: 00~21: 00",
+                "Fri.13: 00~14: 00"
+            ],
+            "Choice": [
+                "D062",
+                "D046",
+                "D009"
+            ]
+        },
+        {
+            "Student_No": "S031501124",
+            "Student_Name": "W423",
+            "Sex": "female",
+            "GPA": 2.1735498905181886,
+            "Tags": [
+                "sports",
+                "painting",
+                "game"
+            ],
+            "Free_Time": [
+                "Tue.9: 00~10: 00",
+                "Thu.20: 00~21: 00",
+                "Thu.21: 00~22: 00",
+                "Sat.20: 00~21: 00",
+                "Mon.20: 00~21: 00",
+                "Tue.21: 00~22: 00",
+                "Sat.19: 00~20: 00",
+                "Tue.16: 00~17: 00",
+                "Sun.10: 00~11: 00",
+                "Fri.10: 00~11: 00"
+            ],
+            "Choice": [
+                "D014",
+                "D013",
+                "D021"
+            ]
+        },
+        {
+            "Student_No": "S031505146",
+            "Student_Name": "V505",
+            "Sex": "female",
+            "GPA": 3.1349000930786135,
+            "Tags": [
+                "document",
+                "basketball",
+                "hiking",
+                "film"
+            ],
+            "Free_Time": [
+                "Fri.15: 00~16: 00",
+                "Mon.20: 00~21: 00"
+            ],
+            "Choice": [
+                "D081",
+                "D049",
+                "D063",
+                "D087"
+            ]
+        },
+        {
+            "Student_No": "S031506821",
+            "Student_Name": "L004",
+            "Sex": "female",
+            "GPA": 4.301939964294434,
+            "Tags": [
+                "film",
+                "document",
+                "basketball"
+            ],
+            "Free_Time": [
+                "Sun.13: 00~14: 00",
+                "Fri.21: 00~22: 00"
+            ],
+            "Choice": [
+                "D012",
+                "D021",
+                "D035"
+            ]
+        },
+        {
+            "Student_No": "S031507531",
+            "Student_Name": "G374",
+            "Sex": "female",
+            "GPA": 3.053679943084717,
+            "Tags": [
+                "basketball",
+                "sports",
+                "game"
+            ],
+            "Free_Time": [
+                "Tue.13: 00~14: 00",
+                "Wed.9: 00~10: 00",
+                "Fri.14: 00~15: 00",
+                "Wed.9: 00~10: 00"
+            ],
+            "Choice": [
+                "D049",
+                "D046",
+                "D037",
+                "D012",
+                "D084"
+            ]
+        },
+        {
+            "Student_No": "S031501945",
+            "Student_Name": "L089",
+            "Sex": "male",
+            "GPA": 3.021250009536743,
+            "Tags": [
+                "English",
+                "game",
+                "hiking",
+                "reading"
+            ],
+            "Free_Time": [
+                "Mon.16: 00~17: 00",
+                "Tue.9: 00~10: 00",
+                "Tue.19: 00~20: 00",
+                "Mon.20: 00~21: 00"
+            ],
+            "Choice": [
+                "D055",
+                "D035",
+                "D091"
+            ]
+        },
+        {
+            "Student_No": "S031504942",
+            "Student_Name": "I563",
+            "Sex": "female",
+            "GPA": 1.2151999473571778,
+            "Tags": [
+                "document",
+                "music",
+                "painting",
+                "travelling"
+            ],
+            "Free_Time": [
+                "Fri.9: 00~10: 00",
+                "Sun.10: 00~11: 00",
+                "Mon.20: 00~21: 00",
+                "Fri.14: 00~15: 00",
+                "Tue.20: 00~21: 00",
+                "Wed.13: 00~14: 00"
+            ],
+            "Choice": [
+                "D014",
+                "D055",
+                "D091"
+            ]
+        },
+        {
+            "Student_No": "S031500903",
+            "Student_Name": "L294",
+            "Sex": "female",
+            "GPA": 2.220639944076538,
+            "Tags": [
+                "math",
+                "basketball",
+                "reading",
+                "hiking"
+            ],
+            "Free_Time": [
+                "Tue.14: 00~15: 00",
+                "Fri.16: 00~17: 00",
+                "Sun.16: 00~17: 00"
+            ],
+            "Choice": [
+                "D014",
+                "D081",
+                "D035"
+            ]
+        },
+        {
+            "Student_No": "S031507836",
+            "Student_Name": "R700",
+            "Sex": "female",
+            "GPA": 1.0401999950408936,
+            "Tags": [
+                "running",
+                "travelling",
+                "math",
+                "dancing",
+                "music"
+            ],
+            "Free_Time": [
+                "Sun.9: 00~10: 00",
+                "Thu.9: 00~10: 00",
+                "Fri.13: 00~14: 00",
+                "Thu.16: 00~17: 00",
+                "Thu.15: 00~16: 00",
+                "Wed.16: 00~17: 00",
+                "Mon.20: 00~21: 00"
+            ],
+            "Choice": [
+                "D046",
+                "D013",
+                "D042",
+                "D055"
+            ]
+        },
+        {
+            "Student_No": "S031500354",
+            "Student_Name": "S004",
+            "Sex": "female",
+            "GPA": 2.1097500324249269,
+            "Tags": [
+                "game",
+                "programing",
+                "sports",
+                "math",
+                "painting"
+            ],
+            "Free_Time": [
+                "Sun.13: 00~14: 00",
+                "Sat.9: 00~10: 00",
+                "Fri.9: 00~10: 00",
+                "Sun.15: 00~16: 00",
+                "Thu.19: 00~20: 00",
+                "Mon.9: 00~10: 00",
+                "Wed.10: 00~11: 00",
+                "Thu.10: 00~11: 00",
+                "Fri.16: 00~17: 00"
+            ],
+            "Choice": [
+                "D009",
+                "D092",
+                "D014",
+                "D021"
+            ]
+        },
+        {
+            "Student_No": "S031503120",
+            "Student_Name": "P949",
+            "Sex": "male",
+            "GPA": 1.1199599504470826,
+            "Tags": [
+                "music",
+                "hiking"
+            ],
+            "Free_Time": [
+                "Fri.21: 00~22: 00",
+                "Mon.19: 00~20: 00"
+            ],
+            "Choice": [
+                "D062",
+                "D042",
+                "D021"
+            ]
+        },
+        {
+            "Student_No": "S031502403",
+            "Student_Name": "N400",
+            "Sex": "male",
+            "GPA": 2.287829875946045,
+            "Tags": [
+                "travelling",
+                "painting",
+                "film",
+                "reading",
+                "swimming"
+            ],
+            "Free_Time": [
+                "Sun.15: 00~16: 00",
+                "Wed.19: 00~20: 00"
+            ],
+            "Choice": [
+                "D021",
+                "D027",
+                "D052",
+                "D037",
+                "D092"
+            ]
+        },
+        {
+            "Student_No": "S031504440",
+            "Student_Name": "D137",
+            "Sex": "male",
+            "GPA": 1.1708199977874756,
+            "Tags": [
+                "painting",
+                "English",
+                "travelling",
+                "film",
+                "music"
+            ],
+            "Free_Time": [
+                "Sun.21: 00~22: 00",
+                "Sat.9: 00~10: 00",
+                "Thu.13: 00~14: 00",
+                "Thu.16: 00~17: 00",
+                "Mon.9: 00~10: 00"
+            ],
+            "Choice": [
+                "D035",
+                "D049"
+            ]
+        },
+        {
+            "Student_No": "S031506041",
+            "Student_Name": "E749",
+            "Sex": "female",
+            "GPA": 3.2668399810791017,
+            "Tags": [
+                "hiking",
+                "basketball",
+                "sports",
+                "dancing",
+                "programing"
+            ],
+            "Free_Time": [
+                "Tue.16: 00~17: 00",
+                "Sun.9: 00~10: 00",
+                "Mon.21: 00~22: 00",
+                "Mon.10: 00~11: 00"
+            ],
+            "Choice": [
+                "D081",
+                "D035"
+            ]
+        },
+        {
+            "Student_No": "S031505941",
+            "Student_Name": "G770",
+            "Sex": "female",
+            "GPA": 1.2876499891281129,
+            "Tags": [
+                "sports",
+                "hiking",
+                "programing",
+                "document"
+            ],
+            "Free_Time": [
+                "Tue.9: 00~10: 00",
+                "Mon.20: 00~21: 00"
+            ],
+            "Choice": [
+                "D052",
+                "D046",
+                "D055",
+                "D021"
+            ]
+        },
+        {
+            "Student_No": "S031507641",
+            "Student_Name": "B333",
+            "Sex": "male",
+            "GPA": 3.077120065689087,
+            "Tags": [
+                "game",
+                "hiking",
+                "dancing",
+                "basketball",
+                "swimming"
+            ],
+            "Free_Time": [
+                "Sun.15: 00~16: 00",
+                "Sat.21: 00~22: 00"
+            ],
+            "Choice": [
+                "D046",
+                "D084",
+                "D081"
+            ]
+        },
+        {
+            "Student_No": "S031504655",
+            "Student_Name": "F240",
+            "Sex": "female",
+            "GPA": 3.169149875640869,
+            "Tags": [
+                "reading",
+                "game"
+            ],
+            "Free_Time": [
+                "Tue.15: 00~16: 00",
+                "Mon.19: 00~20: 00",
+                "Thu.19: 00~20: 00",
+                "Thu.13: 00~14: 00",
+                "Fri.14: 00~15: 00",
+                "Mon.9: 00~10: 00"
+            ],
+            "Choice": [
+                "D027",
+                "D009",
+                "D021",
+                "D014",
+                "D013"
+            ]
+        },
+        {
+            "Student_No": "S031500860",
+            "Student_Name": "O610",
+            "Sex": "male",
+            "GPA": 2.1362099647521974,
+            "Tags": [
+                "programing",
+                "music",
+                "running",
+                "English",
+                "math"
+            ],
+            "Free_Time": [
+                "Mon.10: 00~11: 00",
+                "Fri.14: 00~15: 00",
+                "Sun.20: 00~21: 00",
+                "Wed.16: 00~17: 00",
+                "Thu.9: 00~10: 00",
+                "Fri.15: 00~16: 00",
+                "Wed.9: 00~10: 00",
+                "Thu.16: 00~17: 00"
+            ],
+            "Choice": [
+                "D014",
+                "D013"
+            ]
+        },
+        {
+            "Student_No": "S031507835",
+            "Student_Name": "E213",
+            "Sex": "female",
+            "GPA": 2.2153100967407228,
+            "Tags": [
+                "music",
+                "game",
+                "film"
+            ],
+            "Free_Time": [
+                "Wed.14: 00~15: 00",
+                "Sun.13: 00~14: 00",
+                "Wed.20: 00~21: 00",
+                "Fri.21: 00~22: 00"
+            ],
+            "Choice": [
+                "D013",
+                "D062"
+            ]
+        },
+        {
+            "Student_No": "S031500038",
+            "Student_Name": "G679",
+            "Sex": "male",
+            "GPA": 2.0093801021575929,
+            "Tags": [
+                "reading",
+                "film",
+                "math",
+                "swimming",
+                "game"
+            ],
+            "Free_Time": [
+                "Mon.16: 00~17: 00",
+                "Sat.14: 00~15: 00"
+            ],
+            "Choice": [
+                "D027",
+                "D092",
+                "D009"
+            ]
+        },
+        {
+            "Student_No": "S031503437",
+            "Student_Name": "J991",
+            "Sex": "female",
+            "GPA": 4.304220199584961,
+            "Tags": [
+                "sports",
+                "music",
+                "running",
+                "travelling",
+                "hiking"
+            ],
+            "Free_Time": [
+                "Sat.19: 00~20: 00",
+                "Thu.21: 00~22: 00",
+                "Tue.9: 00~10: 00",
+                "Mon.19: 00~20: 00",
+                "Sun.13: 00~14: 00",
+                "Tue.20: 00~21: 00",
+                "Mon.20: 00~21: 00",
+                "Wed.9: 00~10: 00"
+            ],
+            "Choice": [
+                "D013",
+                "D037",
+                "D063",
+                "D087",
+                "D027"
+            ]
+        },
+        {
+            "Student_No": "S031501617",
+            "Student_Name": "E277",
+            "Sex": "female",
+            "GPA": 2.1094400882720949,
+            "Tags": [
+                "dancing",
+                "basketball",
+                "film",
+                "music",
+                "reading"
+            ],
+            "Free_Time": [
+                "Tue.13: 00~14: 00",
+                "Sat.9: 00~10: 00",
+                "Tue.9: 00~10: 00",
+                "Mon.21: 00~22: 00",
+                "Sat.21: 00~22: 00",
+                "Sun.21: 00~22: 00",
+                "Tue.9: 00~10: 00",
+                "Wed.10: 00~11: 00",
+                "Thu.20: 00~21: 00"
+            ],
+            "Choice": [
+                "D027",
+                "D049",
+                "D055"
+            ]
+        },
+        {
+            "Student_No": "S031507134",
+            "Student_Name": "T875",
+            "Sex": "female",
+            "GPA": 4.172029972076416,
+            "Tags": [
+                "hiking",
+                "basketball",
+                "reading"
+            ],
+            "Free_Time": [
+                "Tue.19: 00~20: 00",
+                "Thu.14: 00~15: 00",
+                "Sat.9: 00~10: 00"
+            ],
+            "Choice": [
+                "D012",
+                "D087"
+            ]
+        },
+        {
+            "Student_No": "S031500956",
+            "Student_Name": "N409",
+            "Sex": "female",
+            "GPA": 1.2669600248336793,
+            "Tags": [
+                "math",
+                "document",
+                "game",
+                "programing",
+                "dancing"
+            ],
+            "Free_Time": [
+                "Sun.19: 00~20: 00",
+                "Thu.13: 00~14: 00",
+                "Sat.19: 00~20: 00",
+                "Tue.13: 00~14: 00",
+                "Wed.15: 00~16: 00",
+                "Mon.15: 00~16: 00",
+                "Sat.21: 00~22: 00",
+                "Tue.14: 00~15: 00"
+            ],
+            "Choice": [
+                "D035",
+                "D087"
+            ]
+        },
+        {
+            "Student_No": "S031504146",
+            "Student_Name": "C327",
+            "Sex": "male",
+            "GPA": 1.1117199659347535,
+            "Tags": [
+                "English",
+                "music",
+                "film"
+            ],
+            "Free_Time": [
+                "Sat.13: 00~14: 00",
+                "Sat.9: 00~10: 00"
+            ],
+            "Choice": [
+                "D063",
+                "D055",
+                "D081",
+                "D014",
+                "D046"
+            ]
+        },
+        {
+            "Student_No": "S031502441",
+            "Student_Name": "L833",
+            "Sex": "female",
+            "GPA": 1.2547500133514405,
+            "Tags": [
+                "document",
+                "dancing",
+                "film",
+                "game",
+                "music"
+            ],
+            "Free_Time": [
+                "Wed.19: 00~20: 00",
+                "Thu.20: 00~21: 00",
+                "Mon.20: 00~21: 00",
+                "Thu.15: 00~16: 00",
+                "Thu.16: 00~17: 00",
+                "Wed.21: 00~22: 00",
+                "Sat.9: 00~10: 00"
+            ],
+            "Choice": [
+                "D037",
+                "D062"
+            ]
+        },
+        {
+            "Student_No": "S031507441",
+            "Student_Name": "U902",
+            "Sex": "female",
+            "GPA": 2.113539934158325,
+            "Tags": [
+                "music",
+                "swimming"
+            ],
+            "Free_Time": [
+                "Thu.14: 00~15: 00",
+                "Sat.9: 00~10: 00",
+                "Sat.10: 00~11: 00",
+                "Thu.13: 00~14: 00",
+                "Tue.16: 00~17: 00",
+                "Mon.15: 00~16: 00",
+                "Tue.15: 00~16: 00",
+                "Fri.9: 00~10: 00",
+                "Wed.13: 00~14: 00",
+                "Wed.19: 00~20: 00"
+            ],
+            "Choice": [
+                "D091",
+                "D081",
+                "D046",
+                "D092",
+                "D049"
+            ]
+        },
+        {
+            "Student_No": "S031507234",
+            "Student_Name": "Y731",
+            "Sex": "female",
+            "GPA": 2.219510078430176,
+            "Tags": [
+                "hiking",
+                "English",
+                "dancing"
+            ],
+            "Free_Time": [
+                "Fri.10: 00~11: 00",
+                "Fri.9: 00~10: 00",
+                "Tue.13: 00~14: 00",
+                "Tue.9: 00~10: 00",
+                "Sat.21: 00~22: 00",
+                "Wed.19: 00~20: 00",
+                "Thu.9: 00~10: 00",
+                "Fri.21: 00~22: 00",
+                "Wed.9: 00~10: 00",
+                "Thu.15: 00~16: 00"
+            ],
+            "Choice": [
+                "D037",
+                "D052",
+                "D035"
+            ]
+        },
+        {
+            "Student_No": "S031505911",
+            "Student_Name": "V256",
+            "Sex": "male",
+            "GPA": 4.23006010055542,
+            "Tags": [
+                "sports",
+                "film",
+                "programing",
+                "reading"
+            ],
+            "Free_Time": [
+                "Fri.10: 00~11: 00",
+                "Sun.20: 00~21: 00",
+                "Thu.9: 00~10: 00",
+                "Fri.9: 00~10: 00",
+                "Fri.21: 00~22: 00"
+            ],
+            "Choice": [
+                "D027",
+                "D042",
+                "D091"
+            ]
+        },
+        {
+            "Student_No": "S031508051",
+            "Student_Name": "E677",
+            "Sex": "male",
+            "GPA": 4.0055999755859379,
+            "Tags": [
+                "running",
+                "hiking",
+                "programing",
+                "music",
+                "swimming"
+            ],
+            "Free_Time": [
+                "Thu.16: 00~17: 00",
+                "Sat.21: 00~22: 00",
+                "Tue.10: 00~11: 00",
+                "Wed.19: 00~20: 00",
+                "Thu.10: 00~11: 00",
+                "Thu.21: 00~22: 00"
+            ],
+            "Choice": [
+                "D027",
+                "D013"
+            ]
+        },
+        {
+            "Student_No": "S031500741",
+            "Student_Name": "Z751",
+            "Sex": "female",
+            "GPA": 4.047060012817383,
+            "Tags": [
+                "game",
+                "basketball",
+                "film",
+                "reading",
+                "document"
+            ],
+            "Free_Time": [
+                "Mon.9: 00~10: 00",
+                "Wed.15: 00~16: 00",
+                "Sun.13: 00~14: 00",
+                "Mon.13: 00~14: 00",
+                "Fri.15: 00~16: 00",
+                "Sun.21: 00~22: 00",
+                "Sat.19: 00~20: 00",
+                "Wed.14: 00~15: 00",
+                "Tue.10: 00~11: 00",
+                "Sun.10: 00~11: 00"
+            ],
+            "Choice": [
+                "D027",
+                "D035",
+                "D063",
+                "D062"
+            ]
+        },
+        {
+            "Student_No": "S031500247",
+            "Student_Name": "M167",
+            "Sex": "male",
+            "GPA": 3.2721099853515627,
+            "Tags": [
+                "reading",
+                "film"
+            ],
+            "Free_Time": [
+                "Fri.16: 00~17: 00",
+                "Tue.9: 00~10: 00",
+                "Mon.9: 00~10: 00",
+                "Sun.16: 00~17: 00",
+                "Sun.21: 00~22: 00",
+                "Sat.19: 00~20: 00"
+            ],
+            "Choice": [
+                "D027",
+                "D042",
+                "D063",
+                "D055",
+                "D013"
+            ]
+        },
+        {
+            "Student_No": "S031506844",
+            "Student_Name": "B307",
+            "Sex": "female",
+            "GPA": 3.1795599460601808,
+            "Tags": [
+                "basketball",
+                "travelling"
+            ],
+            "Free_Time": [
+                "Sun.16: 00~17: 00",
+                "Thu.20: 00~21: 00",
+                "Fri.9: 00~10: 00",
+                "Sun.21: 00~22: 00"
+            ],
+            "Choice": [
+                "D009",
+                "D063",
+                "D012",
+                "D087",
+                "D013"
+            ]
+        },
+        {
+            "Student_No": "S031505413",
+            "Student_Name": "R368",
+            "Sex": "female",
+            "GPA": 1.1973700523376465,
+            "Tags": [
+                "programing",
+                "sports"
+            ],
+            "Free_Time": [
+                "Thu.9: 00~10: 00",
+                "Mon.9: 00~10: 00"
+            ],
+            "Choice": [
+                "D046",
+                "D037",
+                "D063",
+                "D013"
+            ]
+        },
+        {
+            "Student_No": "S031502231",
+            "Student_Name": "A380",
+            "Sex": "male",
+            "GPA": 4.171150207519531,
+            "Tags": [
+                "dancing",
+                "programing",
+                "basketball",
+                "painting"
+            ],
+            "Free_Time": [
+                "Sat.16: 00~17: 00",
+                "Sat.10: 00~11: 00",
+                "Wed.10: 00~11: 00"
+            ],
+            "Choice": [
+                "D052",
+                "D081",
+                "D055"
+            ]
+        },
+        {
+            "Student_No": "S031507941",
+            "Student_Name": "E120",
+            "Sex": "female",
+            "GPA": 1.1543300151824952,
+            "Tags": [
+                "programing",
+                "basketball",
+                "dancing",
+                "swimming"
+            ],
+            "Free_Time": [
+                "Sat.10: 00~11: 00",
+                "Sun.9: 00~10: 00",
+                "Mon.9: 00~10: 00",
+                "Tue.14: 00~15: 00",
+                "Sun.19: 00~20: 00"
+            ],
+            "Choice": [
+                "D021",
+                "D035",
+                "D081",
+                "D091",
+                "D042"
+            ]
+        },
+        {
+            "Student_No": "S031500112",
+            "Student_Name": "U609",
+            "Sex": "female",
+            "GPA": 3.111910104751587,
+            "Tags": [
+                "film",
+                "swimming",
+                "English",
+                "document",
+                "sports"
+            ],
+            "Free_Time": [
+                "Tue.13: 00~14: 00",
+                "Tue.9: 00~10: 00",
+                "Sun.9: 00~10: 00",
+                "Mon.13: 00~14: 00",
+                "Sat.19: 00~20: 00",
+                "Fri.10: 00~11: 00",
+                "Fri.14: 00~15: 00",
+                "Thu.10: 00~11: 00",
+                "Wed.20: 00~21: 00"
+            ],
+            "Choice": [
+                "D021",
+                "D014"
+            ]
+        },
+        {
+            "Student_No": "S031507819",
+            "Student_Name": "Q041",
+            "Sex": "male",
+            "GPA": 1.0052800178527833,
+            "Tags": [
+                "math",
+                "music",
+                "game",
+                "reading"
+            ],
+            "Free_Time": [
+                "Mon.9: 00~10: 00",
+                "Sat.9: 00~10: 00",
+                "Sun.9: 00~10: 00",
+                "Mon.20: 00~21: 00",
+                "Fri.20: 00~21: 00",
+                "Fri.15: 00~16: 00",
+                "Fri.13: 00~14: 00",
+                "Tue.14: 00~15: 00",
+                "Wed.21: 00~22: 00",
+                "Wed.20: 00~21: 00"
+            ],
+            "Choice": [
+                "D014",
+                "D042",
+                "D087",
+                "D092"
+            ]
+        },
+        {
+            "Student_No": "S031508030",
+            "Student_Name": "S229",
+            "Sex": "female",
+            "GPA": 2.067310094833374,
+            "Tags": [
+                "running",
+                "programing",
+                "math",
+                "basketball"
+            ],
+            "Free_Time": [
+                "Fri.14: 00~15: 00",
+                "Sun.13: 00~14: 00",
+                "Sat.10: 00~11: 00",
+                "Tue.10: 00~11: 00"
+            ],
+            "Choice": [
+                "D052",
+                "D049",
+                "D042",
+                "D009",
+                "D084"
+            ]
+        },
+        {
+            "Student_No": "S031500455",
+            "Student_Name": "D186",
+            "Sex": "female",
+            "GPA": 2.257009983062744,
+            "Tags": [
+                "programing",
+                "math",
+                "game"
+            ],
+            "Free_Time": [
+                "Mon.16: 00~17: 00",
+                "Tue.15: 00~16: 00",
+                "Fri.16: 00~17: 00",
+                "Wed.15: 00~16: 00",
+                "Mon.15: 00~16: 00",
+                "Thu.9: 00~10: 00",
+                "Thu.9: 00~10: 00",
+                "Wed.14: 00~15: 00"
+            ],
+            "Choice": [
+                "D052",
+                "D055",
+                "D049"
+            ]
+        },
+        {
+            "Student_No": "S031501140",
+            "Student_Name": "G401",
+            "Sex": "female",
+            "GPA": 1.1370600461959839,
+            "Tags": [
+                "running",
+                "travelling",
+                "music",
+                "math"
+            ],
+            "Free_Time": [
+                "Mon.9: 00~10: 00",
+                "Tue.10: 00~11: 00",
+                "Sat.10: 00~11: 00",
+                "Sun.13: 00~14: 00",
+                "Fri.21: 00~22: 00",
+                "Sun.10: 00~11: 00",
+                "Tue.14: 00~15: 00",
+                "Tue.19: 00~20: 00",
+                "Fri.9: 00~10: 00",
+                "Thu.9: 00~10: 00"
+            ],
+            "Choice": [
+                "D046",
+                "D035"
+            ]
+        },
+        {
+            "Student_No": "S031507725",
+            "Student_Name": "S219",
+            "Sex": "female",
+            "GPA": 4.294750213623047,
+            "Tags": [
+                "basketball",
+                "running",
+                "painting",
+                "dancing"
+            ],
+            "Free_Time": [
+                "Sun.21: 00~22: 00",
+                "Wed.15: 00~16: 00",
+                "Fri.15: 00~16: 00",
+                "Sun.9: 00~10: 00",
+                "Sat.9: 00~10: 00",
+                "Fri.14: 00~15: 00",
+                "Tue.13: 00~14: 00",
+                "Sun.13: 00~14: 00",
+                "Mon.16: 00~17: 00",
+                "Mon.10: 00~11: 00"
+            ],
+            "Choice": [
+                "D027",
+                "D055",
+                "D042",
+                "D052"
+            ]
+        },
+        {
+            "Student_No": "S031501611",
+            "Student_Name": "R424",
+            "Sex": "male",
+            "GPA": 1.2133300304412842,
+            "Tags": [
+                "dancing",
+                "travelling"
+            ],
+            "Free_Time": [
+                "Thu.21: 00~22: 00",
+                "Sun.20: 00~21: 00",
+                "Fri.20: 00~21: 00",
+                "Sat.16: 00~17: 00"
+            ],
+            "Choice": [
+                "D021",
+                "D046",
+                "D037",
+                "D049",
+                "D063"
+            ]
+        },
+        {
+            "Student_No": "S031504315",
+            "Student_Name": "O229",
+            "Sex": "male",
+            "GPA": 4.115019798278809,
+            "Tags": [
+                "hiking",
+                "music"
+            ],
+            "Free_Time": [
+                "Tue.21: 00~22: 00",
+                "Sun.9: 00~10: 00",
+                "Tue.10: 00~11: 00",
+                "Sat.9: 00~10: 00",
+                "Sun.13: 00~14: 00"
+            ],
+            "Choice": [
+                "D042",
+                "D063",
+                "D012"
+            ]
+        },
+        {
+            "Student_No": "S031505241",
+            "Student_Name": "Y662",
+            "Sex": "male",
+            "GPA": 2.2181999683380129,
+            "Tags": [
+                "sports",
+                "hiking",
+                "dancing",
+                "game"
+            ],
+            "Free_Time": [
+                "Fri.9: 00~10: 00",
+                "Sun.20: 00~21: 00",
+                "Mon.15: 00~16: 00",
+                "Fri.9: 00~10: 00",
+                "Thu.16: 00~17: 00",
+                "Mon.21: 00~22: 00",
+                "Sat.20: 00~21: 00",
+                "Sat.14: 00~15: 00"
+            ],
+            "Choice": [
+                "D027",
+                "D084",
+                "D009"
+            ]
+        },
+        {
+            "Student_No": "S031500531",
+            "Student_Name": "U134",
+            "Sex": "male",
+            "GPA": 2.104840040206909,
+            "Tags": [
+                "math",
+                "document",
+                "hiking",
+                "English"
+            ],
+            "Free_Time": [
+                "Mon.21: 00~22: 00",
+                "Wed.19: 00~20: 00",
+                "Tue.20: 00~21: 00",
+                "Sun.19: 00~20: 00",
+                "Thu.19: 00~20: 00",
+                "Tue.16: 00~17: 00",
+                "Wed.9: 00~10: 00",
+                "Sat.21: 00~22: 00",
+                "Fri.15: 00~16: 00",
+                "Sun.9: 00~10: 00"
+            ],
+            "Choice": [
+                "D012",
+                "D049",
+                "D014",
+                "D092"
+            ]
+        },
+        {
+            "Student_No": "S031504417",
+            "Student_Name": "C027",
+            "Sex": "female",
+            "GPA": 4.241720199584961,
+            "Tags": [
+                "reading",
+                "painting",
+                "travelling",
+                "film"
+            ],
+            "Free_Time": [
+                "Thu.13: 00~14: 00",
+                "Sun.15: 00~16: 00",
+                "Tue.10: 00~11: 00",
+                "Mon.21: 00~22: 00",
+                "Mon.19: 00~20: 00",
+                "Sat.19: 00~20: 00"
+            ],
+            "Choice": [
+                "D049",
+                "D081",
+                "D063",
+                "D087",
+                "D042"
+            ]
+        },
+        {
+            "Student_No": "S031505327",
+            "Student_Name": "L542",
+            "Sex": "female",
+            "GPA": 2.2222900390625,
+            "Tags": [
+                "basketball",
+                "dancing",
+                "English",
+                "math",
+                "film"
+            ],
+            "Free_Time": [
+                "Mon.20: 00~21: 00",
+                "Tue.15: 00~16: 00",
+                "Fri.21: 00~22: 00",
+                "Thu.19: 00~20: 00",
+                "Thu.9: 00~10: 00"
+            ],
+            "Choice": [
+                "D084",
+                "D037",
+                "D013"
+            ]
+        },
+        {
+            "Student_No": "S031505215",
+            "Student_Name": "K389",
+            "Sex": "male",
+            "GPA": 1.3065600395202637,
+            "Tags": [
+                "film",
+                "hiking",
+                "swimming",
+                "programing"
+            ],
+            "Free_Time": [
+                "Mon.20: 00~21: 00",
+                "Wed.15: 00~16: 00",
+                "Thu.10: 00~11: 00",
+                "Sat.10: 00~11: 00",
+                "Thu.20: 00~21: 00",
+                "Sun.19: 00~20: 00",
+                "Sat.9: 00~10: 00",
+                "Sat.16: 00~17: 00"
+            ],
+            "Choice": [
+                "D012",
+                "D042",
+                "D055",
+                "D052",
+                "D013"
+            ]
+        },
+        {
+            "Student_No": "S031503509",
+            "Student_Name": "V786",
+            "Sex": "female",
+            "GPA": 3.1034300327301027,
+            "Tags": [
+                "dancing",
+                "basketball",
+                "reading",
+                "hiking",
+                "document"
+            ],
+            "Free_Time": [
+                "Mon.9: 00~10: 00",
+                "Thu.13: 00~14: 00",
+                "Thu.10: 00~11: 00",
+                "Mon.13: 00~14: 00",
+                "Sun.13: 00~14: 00",
+                "Mon.9: 00~10: 00",
+                "Sat.16: 00~17: 00",
+                "Sun.16: 00~17: 00",
+                "Tue.19: 00~20: 00"
+            ],
+            "Choice": [
+                "D046",
+                "D091",
+                "D012"
+            ]
+        },
+        {
+            "Student_No": "S031502942",
+            "Student_Name": "P078",
+            "Sex": "male",
+            "GPA": 1.2847399711608887,
+            "Tags": [
+                "reading",
+                "dancing",
+                "English",
+                "music",
+                "film"
+            ],
+            "Free_Time": [
+                "Fri.16: 00~17: 00",
+                "Wed.21: 00~22: 00",
+                "Fri.20: 00~21: 00",
+                "Tue.10: 00~11: 00"
+            ],
+            "Choice": [
+                "D014",
+                "D046",
+                "D035",
+                "D049"
+            ]
+        },
+        {
+            "Student_No": "S031506134",
+            "Student_Name": "N251",
+            "Sex": "male",
+            "GPA": 3.112030029296875,
+            "Tags": [
+                "reading",
+                "dancing",
+                "sports",
+                "travelling"
+            ],
+            "Free_Time": [
+                "Sat.20: 00~21: 00",
+                "Tue.14: 00~15: 00",
+                "Sat.19: 00~20: 00",
+                "Mon.19: 00~20: 00",
+                "Tue.10: 00~11: 00",
+                "Tue.13: 00~14: 00",
+                "Sat.21: 00~22: 00",
+                "Fri.9: 00~10: 00",
+                "Wed.9: 00~10: 00",
+                "Sat.9: 00~10: 00"
+            ],
+            "Choice": [
+                "D055",
+                "D012",
+                "D062"
+            ]
+        },
+        {
+            "Student_No": "S031500901",
+            "Student_Name": "T336",
+            "Sex": "female",
+            "GPA": 2.322930097579956,
+            "Tags": [
+                "document",
+                "game",
+                "travelling",
+                "running"
+            ],
+            "Free_Time": [
+                "Thu.15: 00~16: 00",
+                "Mon.19: 00~20: 00",
+                "Fri.15: 00~16: 00",
+                "Wed.21: 00~22: 00",
+                "Thu.10: 00~11: 00",
+                "Sat.20: 00~21: 00"
+            ],
+            "Choice": [
+                "D013",
+                "D087",
+                "D049",
+                "D046",
+                "D014"
+            ]
+        },
+        {
+            "Student_No": "S031506435",
+            "Student_Name": "N127",
+            "Sex": "male",
+            "GPA": 1.2344900369644166,
+            "Tags": [
+                "sports",
+                "running"
+            ],
+            "Free_Time": [
+                "Sat.21: 00~22: 00",
+                "Thu.14: 00~15: 00",
+                "Mon.15: 00~16: 00",
+                "Mon.19: 00~20: 00",
+                "Fri.19: 00~20: 00",
+                "Sun.14: 00~15: 00",
+                "Wed.21: 00~22: 00"
+            ],
+            "Choice": [
+                "D084",
+                "D035",
+                "D092",
+                "D009"
+            ]
+        },
+        {
+            "Student_No": "S031506337",
+            "Student_Name": "G265",
+            "Sex": "male",
+            "GPA": 4.236340045928955,
+            "Tags": [
+                "programing",
+                "basketball",
+                "travelling"
+            ],
+            "Free_Time": [
+                "Sun.14: 00~15: 00",
+                "Fri.19: 00~20: 00",
+                "Sun.10: 00~11: 00",
+                "Sun.15: 00~16: 00",
+                "Fri.21: 00~22: 00",
+                "Sun.9: 00~10: 00",
+                "Fri.13: 00~14: 00",
+                "Wed.9: 00~10: 00",
+                "Thu.16: 00~17: 00",
+                "Sun.21: 00~22: 00"
+            ],
+            "Choice": [
+                "D014",
+                "D049",
+                "D046",
+                "D021",
+                "D091"
+            ]
+        },
+        {
+            "Student_No": "S031508504",
+            "Student_Name": "D893",
+            "Sex": "female",
+            "GPA": 2.1322999000549318,
+            "Tags": [
+                "programing",
+                "hiking",
+                "basketball",
+                "running",
+                "sports"
+            ],
+            "Free_Time": [
+                "Sat.9: 00~10: 00",
+                "Mon.9: 00~10: 00",
+                "Thu.9: 00~10: 00"
+            ],
+            "Choice": [
+                "D027",
+                "D012",
+                "D062",
+                "D063"
+            ]
+        },
+        {
+            "Student_No": "S031507017",
+            "Student_Name": "S230",
+            "Sex": "female",
+            "GPA": 4.269050121307373,
+            "Tags": [
+                "running",
+                "sports",
+                "math",
+                "programing",
+                "document"
+            ],
+            "Free_Time": [
+                "Wed.9: 00~10: 00",
+                "Mon.21: 00~22: 00",
+                "Tue.16: 00~17: 00",
+                "Mon.13: 00~14: 00"
+            ],
+            "Choice": [
+                "D049",
+                "D035",
+                "D062",
+                "D027"
+            ]
+        },
+        {
+            "Student_No": "S031503403",
+            "Student_Name": "Q313",
+            "Sex": "female",
+            "GPA": 1.0778000354766846,
+            "Tags": [
+                "film",
+                "dancing",
+                "painting"
+            ],
+            "Free_Time": [
+                "Sun.10: 00~11: 00",
+                "Sat.16: 00~17: 00",
+                "Thu.14: 00~15: 00",
+                "Fri.13: 00~14: 00",
+                "Mon.20: 00~21: 00",
+                "Sat.20: 00~21: 00",
+                "Thu.15: 00~16: 00"
+            ],
+            "Choice": [
+                "D042",
+                "D084",
+                "D052"
+            ]
+        },
+        {
+            "Student_No": "S031507246",
+            "Student_Name": "R268",
+            "Sex": "female",
+            "GPA": 3.0409300327301027,
+            "Tags": [
+                "dancing",
+                "running",
+                "reading",
+                "English"
+            ],
+            "Free_Time": [
+                "Wed.21: 00~22: 00",
+                "Fri.21: 00~22: 00"
+            ],
+            "Choice": [
+                "D037",
+                "D035"
+            ]
+        },
+        {
+            "Student_No": "S031500535",
+            "Student_Name": "X274",
+            "Sex": "male",
+            "GPA": 1.1809200048446656,
+            "Tags": [
+                "dancing",
+                "math"
+            ],
+            "Free_Time": [
+                "Tue.16: 00~17: 00",
+                "Sun.20: 00~21: 00",
+                "Thu.21: 00~22: 00",
+                "Sat.19: 00~20: 00",
+                "Thu.9: 00~10: 00",
+                "Mon.9: 00~10: 00",
+                "Wed.14: 00~15: 00",
+                "Sat.20: 00~21: 00"
+            ],
+            "Choice": [
+                "D042",
+                "D062"
+            ]
+        },
+        {
+            "Student_No": "S031507601",
+            "Student_Name": "B561",
+            "Sex": "male",
+            "GPA": 3.0649800300598146,
+            "Tags": [
+                "document",
+                "swimming"
+            ],
+            "Free_Time": [
+                "Fri.14: 00~15: 00",
+                "Sat.9: 00~10: 00",
+                "Fri.21: 00~22: 00",
+                "Thu.13: 00~14: 00",
+                "Sun.20: 00~21: 00",
+                "Sun.19: 00~20: 00",
+                "Wed.10: 00~11: 00",
+                "Fri.10: 00~11: 00"
+            ],
+            "Choice": [
+                "D092",
+                "D009",
+                "D021"
+            ]
+        },
+        {
+            "Student_No": "S031507604",
+            "Student_Name": "T393",
+            "Sex": "male",
+            "GPA": 2.2894999980926515,
+            "Tags": [
+                "swimming",
+                "basketball",
+                "painting",
+                "dancing"
+            ],
+            "Free_Time": [
+                "Wed.10: 00~11: 00",
+                "Thu.13: 00~14: 00",
+                "Wed.15: 00~16: 00",
+                "Sun.13: 00~14: 00",
+                "Thu.15: 00~16: 00",
+                "Thu.14: 00~15: 00",
+                "Tue.19: 00~20: 00",
+                "Sun.9: 00~10: 00"
+            ],
+            "Choice": [
+                "D092",
+                "D087",
+                "D021"
+            ]
+        },
+        {
+            "Student_No": "S031505004",
+            "Student_Name": "P227",
+            "Sex": "female",
+            "GPA": 4.1770501136779789,
+            "Tags": [
+                "film",
+                "English",
+                "hiking"
+            ],
+            "Free_Time": [
+                "Tue.13: 00~14: 00",
+                "Fri.9: 00~10: 00",
+                "Tue.10: 00~11: 00"
+            ],
+            "Choice": [
+                "D009",
+                "D014",
+                "D035"
+            ]
+        },
+        {
+            "Student_No": "S031507524",
+            "Student_Name": "H726",
+            "Sex": "female",
+            "GPA": 3.1822400093078615,
+            "Tags": [
+                "swimming",
+                "travelling",
+                "game",
+                "basketball",
+                "dancing"
+            ],
+            "Free_Time": [
+                "Tue.14: 00~15: 00",
+                "Thu.9: 00~10: 00",
+                "Tue.10: 00~11: 00"
+            ],
+            "Choice": [
+                "D021",
+                "D014",
+                "D013",
+                "D052"
+            ]
+        },
+        {
+            "Student_No": "S031501258",
+            "Student_Name": "E140",
+            "Sex": "female",
+            "GPA": 3.2732200622558595,
+            "Tags": [
+                "dancing",
+                "music",
+                "travelling"
+            ],
+            "Free_Time": [
+                "Sat.20: 00~21: 00",
+                "Fri.14: 00~15: 00",
+                "Thu.15: 00~16: 00",
+                "Mon.13: 00~14: 00"
+            ],
+            "Choice": [
+                "D087",
+                "D009",
+                "D081",
+                "D062"
+            ]
+        },
+        {
+            "Student_No": "S031502320",
+            "Student_Name": "W356",
+            "Sex": "male",
+            "GPA": 2.119040012359619,
+            "Tags": [
+                "programing",
+                "English"
+            ],
+            "Free_Time": [
+                "Thu.14: 00~15: 00",
+                "Wed.19: 00~20: 00",
+                "Sat.15: 00~16: 00",
+                "Wed.9: 00~10: 00",
+                "Mon.15: 00~16: 00",
+                "Sat.9: 00~10: 00"
+            ],
+            "Choice": [
+                "D091",
+                "D035",
+                "D014",
+                "D087"
+            ]
+        },
+        {
+            "Student_No": "S031500912",
+            "Student_Name": "W262",
+            "Sex": "male",
+            "GPA": 1.005519986152649,
+            "Tags": [
+                "music",
+                "document",
+                "sports",
+                "running",
+                "programing"
+            ],
+            "Free_Time": [
+                "Mon.19: 00~20: 00",
+                "Sat.13: 00~14: 00",
+                "Tue.9: 00~10: 00",
+                "Wed.15: 00~16: 00",
+                "Mon.13: 00~14: 00",
+                "Wed.16: 00~17: 00",
+                "Tue.14: 00~15: 00",
+                "Fri.20: 00~21: 00",
+                "Wed.13: 00~14: 00",
+                "Sun.10: 00~11: 00"
+            ],
+            "Choice": [
+                "D027",
+                "D049",
+                "D062",
+                "D055",
+                "D035"
+            ]
+        },
+        {
+            "Student_No": "S031505928",
+            "Student_Name": "N112",
+            "Sex": "male",
+            "GPA": 4.280250072479248,
+            "Tags": [
+                "document",
+                "game",
+                "English",
+                "travelling",
+                "painting"
+            ],
+            "Free_Time": [
+                "Thu.9: 00~10: 00",
+                "Thu.14: 00~15: 00",
+                "Fri.13: 00~14: 00",
+                "Mon.14: 00~15: 00",
+                "Wed.10: 00~11: 00",
+                "Sat.9: 00~10: 00",
+                "Mon.19: 00~20: 00",
+                "Sat.21: 00~22: 00",
+                "Mon.13: 00~14: 00"
+            ],
+            "Choice": [
+                "D052",
+                "D042",
+                "D012"
+            ]
+        },
+        {
+            "Student_No": "S031505448",
+            "Student_Name": "Q490",
+            "Sex": "female",
+            "GPA": 3.2302401065826418,
+            "Tags": [
+                "document",
+                "reading",
+                "running",
+                "math",
+                "basketball"
+            ],
+            "Free_Time": [
+                "Tue.19: 00~20: 00",
+                "Mon.10: 00~11: 00",
+                "Fri.19: 00~20: 00",
+                "Fri.16: 00~17: 00",
+                "Sun.9: 00~10: 00",
+                "Thu.9: 00~10: 00",
+                "Fri.13: 00~14: 00",
+                "Mon.16: 00~17: 00",
+                "Fri.9: 00~10: 00"
+            ],
+            "Choice": [
+                "D042",
+                "D055"
+            ]
+        },
+        {
+            "Student_No": "S031500413",
+            "Student_Name": "B186",
+            "Sex": "female",
+            "GPA": 3.036669969558716,
+            "Tags": [
+                "English",
+                "hiking"
+            ],
+            "Free_Time": [
+                "Sun.19: 00~20: 00",
+                "Tue.10: 00~11: 00"
+            ],
+            "Choice": [
+                "D042",
+                "D084",
+                "D049",
+                "D092",
+                "D009"
+            ]
+        },
+        {
+            "Student_No": "S031503924",
+            "Student_Name": "C763",
+            "Sex": "male",
+            "GPA": 2.1399500370025636,
+            "Tags": [
+                "game",
+                "travelling",
+                "reading",
+                "English"
+            ],
+            "Free_Time": [
+                "Sat.10: 00~11: 00",
+                "Mon.15: 00~16: 00",
+                "Wed.15: 00~16: 00",
+                "Tue.16: 00~17: 00",
+                "Tue.13: 00~14: 00",
+                "Sun.10: 00~11: 00",
+                "Thu.21: 00~22: 00",
+                "Mon.9: 00~10: 00"
+            ],
+            "Choice": [
+                "D062",
+                "D081"
+            ]
+        },
+        {
+            "Student_No": "S031505902",
+            "Student_Name": "H150",
+            "Sex": "male",
+            "GPA": 3.242340087890625,
+            "Tags": [
+                "swimming",
+                "English",
+                "reading",
+                "dancing"
+            ],
+            "Free_Time": [
+                "Tue.13: 00~14: 00",
+                "Wed.9: 00~10: 00",
+                "Thu.14: 00~15: 00"
+            ],
+            "Choice": [
+                "D091",
+                "D012",
+                "D037",
+                "D087",
+                "D055"
+            ]
+        },
+        {
+            "Student_No": "S031502147",
+            "Student_Name": "Y319",
+            "Sex": "female",
+            "GPA": 3.005539894104004,
+            "Tags": [
+                "document",
+                "swimming",
+                "math",
+                "music",
+                "film"
+            ],
+            "Free_Time": [
+                "Wed.20: 00~21: 00",
+                "Sat.10: 00~11: 00",
+                "Tue.19: 00~20: 00",
+                "Mon.14: 00~15: 00",
+                "Fri.9: 00~10: 00",
+                "Mon.9: 00~10: 00",
+                "Fri.16: 00~17: 00"
+            ],
+            "Choice": [
+                "D081",
+                "D049"
+            ]
+        },
+        {
+            "Student_No": "S031504215",
+            "Student_Name": "L495",
+            "Sex": "male",
+            "GPA": 1.0326499938964844,
+            "Tags": [
+                "swimming",
+                "painting"
+            ],
+            "Free_Time": [
+                "Sun.14: 00~15: 00",
+                "Tue.20: 00~21: 00",
+                "Thu.13: 00~14: 00",
+                "Sun.20: 00~21: 00",
+                "Mon.19: 00~20: 00"
+            ],
+            "Choice": [
+                "D013",
+                "D049"
+            ]
+        },
+        {
+            "Student_No": "S031503206",
+            "Student_Name": "I381",
+            "Sex": "male",
+            "GPA": 4.0978899002075199,
+            "Tags": [
+                "game",
+                "swimming",
+                "document"
+            ],
+            "Free_Time": [
+                "Sun.21: 00~22: 00",
+                "Tue.13: 00~14: 00",
+                "Wed.20: 00~21: 00",
+                "Tue.16: 00~17: 00",
+                "Sat.21: 00~22: 00",
+                "Tue.9: 00~10: 00",
+                "Thu.10: 00~11: 00",
+                "Mon.16: 00~17: 00",
+                "Sun.9: 00~10: 00",
+                "Sun.14: 00~15: 00"
+            ],
+            "Choice": [
+                "D084",
+                "D081",
+                "D013",
+                "D091"
+            ]
+        },
+        {
+            "Student_No": "S031505435",
+            "Student_Name": "L829",
+            "Sex": "male",
+            "GPA": 4.090549945831299,
+            "Tags": [
+                "hiking",
+                "painting",
+                "basketball",
+                "swimming"
+            ],
+            "Free_Time": [
+                "Sun.10: 00~11: 00",
+                "Wed.19: 00~20: 00",
+                "Sat.9: 00~10: 00",
+                "Sat.16: 00~17: 00",
+                "Tue.9: 00~10: 00",
+                "Sun.13: 00~14: 00",
+                "Mon.21: 00~22: 00",
+                "Fri.9: 00~10: 00",
+                "Sat.10: 00~11: 00"
+            ],
+            "Choice": [
+                "D063",
+                "D013"
+            ]
+        },
+        {
+            "Student_No": "S031503703",
+            "Student_Name": "O477",
+            "Sex": "female",
+            "GPA": 3.0482699871063234,
+            "Tags": [
+                "game",
+                "dancing",
+                "music",
+                "programing"
+            ],
+            "Free_Time": [
+                "Thu.16: 00~17: 00",
+                "Sat.10: 00~11: 00",
+                "Sat.15: 00~16: 00",
+                "Sun.21: 00~22: 00",
+                "Tue.20: 00~21: 00",
+                "Fri.19: 00~20: 00",
+                "Tue.10: 00~11: 00",
+                "Thu.13: 00~14: 00",
+                "Sat.13: 00~14: 00"
+            ],
+            "Choice": [
+                "D013",
+                "D091",
+                "D081"
+            ]
+        },
+        {
+            "Student_No": "S031504659",
+            "Student_Name": "K226",
+            "Sex": "female",
+            "GPA": 1.159559965133667,
+            "Tags": [
+                "dancing",
+                "game",
+                "reading",
+                "swimming",
+                "math"
+            ],
+            "Free_Time": [
+                "Mon.9: 00~10: 00",
+                "Fri.13: 00~14: 00",
+                "Mon.21: 00~22: 00",
+                "Sun.10: 00~11: 00",
+                "Tue.13: 00~14: 00",
+                "Thu.10: 00~11: 00",
+                "Thu.15: 00~16: 00",
+                "Sat.15: 00~16: 00"
+            ],
+            "Choice": [
+                "D009",
+                "D052",
+                "D091",
+                "D055",
+                "D013"
+            ]
+        },
+        {
+            "Student_No": "S031502952",
+            "Student_Name": "L855",
+            "Sex": "female",
+            "GPA": 1.3087400197982789,
+            "Tags": [
+                "document",
+                "swimming",
+                "running"
+            ],
+            "Free_Time": [
+                "Wed.16: 00~17: 00",
+                "Wed.19: 00~20: 00",
+                "Thu.13: 00~14: 00",
+                "Fri.10: 00~11: 00"
+            ],
+            "Choice": [
+                "D046",
+                "D035",
+                "D027"
+            ]
+        },
+        {
+            "Student_No": "S031500046",
+            "Student_Name": "G129",
+            "Sex": "female",
+            "GPA": 1.0823800563812256,
+            "Tags": [
+                "English",
+                "dancing"
+            ],
+            "Free_Time": [
+                "Thu.9: 00~10: 00",
+                "Fri.21: 00~22: 00",
+                "Thu.10: 00~11: 00"
+            ],
+            "Choice": [
+                "D042",
+                "D084",
+                "D091",
+                "D049"
+            ]
+        },
+        {
+            "Student_No": "S031507115",
+            "Student_Name": "D659",
+            "Sex": "female",
+            "GPA": 4.264750003814697,
+            "Tags": [
+                "film",
+                "running",
+                "game",
+                "painting",
+                "music"
+            ],
+            "Free_Time": [
+                "Fri.9: 00~10: 00",
+                "Tue.9: 00~10: 00",
+                "Tue.14: 00~15: 00",
+                "Wed.9: 00~10: 00",
+                "Sun.10: 00~11: 00",
+                "Wed.16: 00~17: 00",
+                "Thu.9: 00~10: 00"
+            ],
+            "Choice": [
+                "D037",
+                "D063",
+                "D091",
+                "D012",
+                "D055"
+            ]
+        },
+        {
+            "Student_No": "S031507745",
+            "Student_Name": "B869",
+            "Sex": "female",
+            "GPA": 4.001969814300537,
+            "Tags": [
+                "game",
+                "English"
+            ],
+            "Free_Time": [
+                "Thu.14: 00~15: 00",
+                "Thu.10: 00~11: 00"
+            ],
+            "Choice": [
+                "D042",
+                "D081",
+                "D084",
+                "D087"
+            ]
+        },
+        {
+            "Student_No": "S031503818",
+            "Student_Name": "S235",
+            "Sex": "female",
+            "GPA": 2.1499199867248537,
+            "Tags": [
+                "sports",
+                "math",
+                "music",
+                "travelling",
+                "English"
+            ],
+            "Free_Time": [
+                "Wed.15: 00~16: 00",
+                "Mon.10: 00~11: 00",
+                "Mon.14: 00~15: 00",
+                "Sun.9: 00~10: 00",
+                "Mon.13: 00~14: 00"
+            ],
+            "Choice": [
+                "D035",
+                "D052",
+                "D087",
+                "D063"
+            ]
+        },
+        {
+            "Student_No": "S031508960",
+            "Student_Name": "N221",
+            "Sex": "male",
+            "GPA": 4.148059844970703,
+            "Tags": [
+                "running",
+                "painting",
+                "music",
+                "programing"
+            ],
+            "Free_Time": [
+                "Fri.20: 00~21: 00",
+                "Sat.9: 00~10: 00",
+                "Sun.21: 00~22: 00",
+                "Mon.19: 00~20: 00",
+                "Sun.13: 00~14: 00",
+                "Thu.13: 00~14: 00",
+                "Mon.14: 00~15: 00",
+                "Tue.19: 00~20: 00",
+                "Thu.9: 00~10: 00",
+                "Tue.14: 00~15: 00"
+            ],
+            "Choice": [
+                "D037",
+                "D013",
+                "D049",
+                "D021",
+                "D052"
+            ]
+        },
+        {
+            "Student_No": "S031507930",
+            "Student_Name": "Z673",
+            "Sex": "female",
+            "GPA": 3.089709997177124,
+            "Tags": [
+                "swimming",
+                "film",
+                "hiking"
+            ],
+            "Free_Time": [
+                "Thu.21: 00~22: 00",
+                "Thu.15: 00~16: 00",
+                "Sat.20: 00~21: 00"
+            ],
+            "Choice": [
+                "D013",
+                "D021",
+                "D027",
+                "D091"
+            ]
+        },
+        {
+            "Student_No": "S031500518",
+            "Student_Name": "B348",
+            "Sex": "male",
+            "GPA": 3.0245699882507326,
+            "Tags": [
+                "document",
+                "swimming",
+                "reading",
+                "painting",
+                "math"
+            ],
+            "Free_Time": [
+                "Mon.16: 00~17: 00",
+                "Sun.9: 00~10: 00",
+                "Sat.14: 00~15: 00",
+                "Tue.9: 00~10: 00",
+                "Sat.20: 00~21: 00",
+                "Fri.16: 00~17: 00"
+            ],
+            "Choice": [
+                "D092",
+                "D027",
+                "D081"
+            ]
+        },
+        {
+            "Student_No": "S031500229",
+            "Student_Name": "Y631",
+            "Sex": "male",
+            "GPA": 2.1161000728607179,
+            "Tags": [
+                "reading",
+                "game",
+                "painting",
+                "film",
+                "sports"
+            ],
+            "Free_Time": [
+                "Fri.9: 00~10: 00",
+                "Mon.19: 00~20: 00",
+                "Tue.13: 00~14: 00",
+                "Sun.21: 00~22: 00",
+                "Sat.13: 00~14: 00"
+            ],
+            "Choice": [
+                "D046",
+                "D009",
+                "D012",
+                "D049"
+            ]
+        },
+        {
+            "Student_No": "S031502930",
+            "Student_Name": "M164",
+            "Sex": "male",
+            "GPA": 4.0181097984313969,
+            "Tags": [
+                "film",
+                "painting"
+            ],
+            "Free_Time": [
+                "Tue.9: 00~10: 00",
+                "Sun.9: 00~10: 00",
+                "Tue.14: 00~15: 00",
+                "Sun.10: 00~11: 00",
+                "Fri.16: 00~17: 00",
+                "Mon.14: 00~15: 00",
+                "Fri.15: 00~16: 00"
+            ],
+            "Choice": [
+                "D013",
+                "D009"
+            ]
+        },
+        {
+            "Student_No": "S031500432",
+            "Student_Name": "V499",
+            "Sex": "female",
+            "GPA": 4.1768798828125,
+            "Tags": [
+                "dancing",
+                "painting"
+            ],
+            "Free_Time": [
+                "Wed.19: 00~20: 00",
+                "Sun.13: 00~14: 00",
+                "Wed.14: 00~15: 00",
+                "Sun.15: 00~16: 00",
+                "Sun.19: 00~20: 00",
+                "Sat.19: 00~20: 00",
+                "Fri.9: 00~10: 00",
+                "Wed.10: 00~11: 00",
+                "Mon.21: 00~22: 00"
+            ],
+            "Choice": [
+                "D062",
+                "D035"
+            ]
+        },
+        {
+            "Student_No": "S031501603",
+            "Student_Name": "J729",
+            "Sex": "female",
+            "GPA": 3.256969928741455,
+            "Tags": [
+                "game",
+                "programing",
+                "English"
+            ],
+            "Free_Time": [
+                "Fri.9: 00~10: 00",
+                "Tue.9: 00~10: 00",
+                "Thu.10: 00~11: 00",
+                "Sat.14: 00~15: 00",
+                "Fri.20: 00~21: 00",
+                "Sun.10: 00~11: 00"
+            ],
+            "Choice": [
+                "D037",
+                "D084",
+                "D081",
+                "D052"
+            ]
+        },
+        {
+            "Student_No": "S031508328",
+            "Student_Name": "B962",
+            "Sex": "male",
+            "GPA": 3.2843799591064455,
+            "Tags": [
+                "reading",
+                "swimming",
+                "film",
+                "sports"
+            ],
+            "Free_Time": [
+                "Tue.9: 00~10: 00",
+                "Wed.15: 00~16: 00",
+                "Fri.10: 00~11: 00",
+                "Sun.10: 00~11: 00",
+                "Fri.14: 00~15: 00",
+                "Mon.10: 00~11: 00",
+                "Tue.16: 00~17: 00",
+                "Mon.14: 00~15: 00"
+            ],
+            "Choice": [
+                "D027",
+                "D042",
+                "D012"
+            ]
+        },
+        {
+            "Student_No": "S031506547",
+            "Student_Name": "J472",
+            "Sex": "female",
+            "GPA": 1.1901600360870362,
+            "Tags": [
+                "programing",
+                "swimming",
+                "hiking",
+                "music",
+                "document"
+            ],
+            "Free_Time": [
+                "Fri.13: 00~14: 00",
+                "Tue.10: 00~11: 00"
+            ],
+            "Choice": [
+                "D037",
+                "D092",
+                "D009"
+            ]
+        },
+        {
+            "Student_No": "S031502644",
+            "Student_Name": "C166",
+            "Sex": "female",
+            "GPA": 1.1312400102615357,
+            "Tags": [
+                "music",
+                "travelling",
+                "basketball"
+            ],
+            "Free_Time": [
+                "Fri.9: 00~10: 00",
+                "Sat.19: 00~20: 00",
+                "Sat.20: 00~21: 00",
+                "Mon.20: 00~21: 00",
+                "Sun.19: 00~20: 00",
+                "Sat.14: 00~15: 00",
+                "Sun.14: 00~15: 00",
+                "Fri.14: 00~15: 00",
+                "Fri.16: 00~17: 00",
+                "Mon.14: 00~15: 00"
+            ],
+            "Choice": [
+                "D081",
+                "D009"
+            ]
+        },
+        {
+            "Student_No": "S031501210",
+            "Student_Name": "V401",
+            "Sex": "female",
+            "GPA": 4.1457600593566898,
+            "Tags": [
+                "music",
+                "running",
+                "document",
+                "reading"
+            ],
+            "Free_Time": [
+                "Sat.14: 00~15: 00",
+                "Sat.15: 00~16: 00",
+                "Thu.9: 00~10: 00",
+                "Sun.20: 00~21: 00",
+                "Sun.13: 00~14: 00",
+                "Mon.13: 00~14: 00",
+                "Fri.20: 00~21: 00",
+                "Sun.9: 00~10: 00",
+                "Mon.19: 00~20: 00"
+            ],
+            "Choice": [
+                "D027",
+                "D042",
+                "D055",
+                "D087",
+                "D014"
+            ]
+        },
+        {
+            "Student_No": "S031507644",
+            "Student_Name": "R843",
+            "Sex": "female",
+            "GPA": 4.142789840698242,
+            "Tags": [
+                "travelling",
+                "game",
+                "document",
+                "swimming"
+            ],
+            "Free_Time": [
+                "Mon.10: 00~11: 00",
+                "Mon.9: 00~10: 00",
+                "Sun.14: 00~15: 00",
+                "Tue.14: 00~15: 00"
+            ],
+            "Choice": [
+                "D062",
+                "D009",
+                "D084",
+                "D046",
+                "D052"
+            ]
+        },
+        {
+            "Student_No": "S031506725",
+            "Student_Name": "U099",
+            "Sex": "female",
+            "GPA": 3.0401999950408937,
+            "Tags": [
+                "math",
+                "swimming",
+                "hiking",
+                "basketball"
+            ],
+            "Free_Time": [
+                "Mon.10: 00~11: 00",
+                "Fri.13: 00~14: 00",
+                "Sun.13: 00~14: 00",
+                "Mon.14: 00~15: 00",
+                "Mon.20: 00~21: 00",
+                "Wed.13: 00~14: 00",
+                "Tue.10: 00~11: 00",
+                "Sat.14: 00~15: 00",
+                "Wed.14: 00~15: 00",
+                "Sun.10: 00~11: 00"
+            ],
+            "Choice": [
+                "D092",
+                "D055",
+                "D021",
+                "D087"
+            ]
+        },
+        {
+            "Student_No": "S031504736",
+            "Student_Name": "Y795",
+            "Sex": "female",
+            "GPA": 1.2614500522613526,
+            "Tags": [
+                "sports",
+                "math",
+                "travelling",
+                "document"
+            ],
+            "Free_Time": [
+                "Fri.16: 00~17: 00",
+                "Wed.20: 00~21: 00",
+                "Fri.9: 00~10: 00",
+                "Sat.9: 00~10: 00"
+            ],
+            "Choice": [
+                "D027",
+                "D081"
+            ]
+        },
+        {
+            "Student_No": "S031502921",
+            "Student_Name": "Z500",
+            "Sex": "female",
+            "GPA": 3.0324199199676515,
+            "Tags": [
+                "document",
+                "basketball",
+                "travelling"
+            ],
+            "Free_Time": [
+                "Thu.16: 00~17: 00",
+                "Sat.16: 00~17: 00",
+                "Sun.14: 00~15: 00",
+                "Tue.10: 00~11: 00"
+            ],
+            "Choice": [
+                "D009",
+                "D035",
+                "D013"
+            ]
+        },
+        {
+            "Student_No": "S031503346",
+            "Student_Name": "H078",
+            "Sex": "female",
+            "GPA": 1.1577999591827393,
+            "Tags": [
+                "sports",
+                "music",
+                "document",
+                "game",
+                "running"
+            ],
+            "Free_Time": [
+                "Tue.9: 00~10: 00",
+                "Sun.16: 00~17: 00",
+                "Tue.9: 00~10: 00",
+                "Sun.21: 00~22: 00",
+                "Sat.19: 00~20: 00",
+                "Sun.9: 00~10: 00",
+                "Thu.10: 00~11: 00",
+                "Sun.15: 00~16: 00",
+                "Sat.9: 00~10: 00"
+            ],
+            "Choice": [
+                "D009",
+                "D042",
+                "D087"
+            ]
+        },
+        {
+            "Student_No": "S031505746",
+            "Student_Name": "I260",
+            "Sex": "male",
+            "GPA": 1.2545299530029297,
+            "Tags": [
+                "hiking",
+                "game",
+                "English",
+                "running"
+            ],
+            "Free_Time": [
+                "Thu.14: 00~15: 00",
+                "Fri.13: 00~14: 00",
+                "Mon.20: 00~21: 00",
+                "Mon.13: 00~14: 00",
+                "Sun.10: 00~11: 00",
+                "Tue.13: 00~14: 00"
+            ],
+            "Choice": [
+                "D035",
+                "D021",
+                "D052",
+                "D055"
+            ]
+        },
+        {
+            "Student_No": "S031504433",
+            "Student_Name": "N904",
+            "Sex": "female",
+            "GPA": 2.071739912033081,
+            "Tags": [
+                "basketball",
+                "document",
+                "English",
+                "math",
+                "painting"
+            ],
+            "Free_Time": [
+                "Sat.9: 00~10: 00",
+                "Mon.19: 00~20: 00",
+                "Thu.13: 00~14: 00",
+                "Tue.14: 00~15: 00"
+            ],
+            "Choice": [
+                "D012",
+                "D013",
+                "D092"
+            ]
+        },
+        {
+            "Student_No": "S031504702",
+            "Student_Name": "U313",
+            "Sex": "female",
+            "GPA": 2.035330057144165,
+            "Tags": [
+                "sports",
+                "English",
+                "programing",
+                "reading",
+                "running"
+            ],
+            "Free_Time": [
+                "Tue.21: 00~22: 00",
+                "Tue.10: 00~11: 00",
+                "Sat.9: 00~10: 00",
+                "Mon.21: 00~22: 00",
+                "Sat.14: 00~15: 00",
+                "Wed.19: 00~20: 00",
+                "Tue.14: 00~15: 00",
+                "Sun.10: 00~11: 00",
+                "Fri.21: 00~22: 00"
+            ],
+            "Choice": [
+                "D052",
+                "D046",
+                "D092",
+                "D021"
+            ]
+        },
+        {
+            "Student_No": "S031505913",
+            "Student_Name": "N180",
+            "Sex": "male",
+            "GPA": 4.080150127410889,
+            "Tags": [
+                "dancing",
+                "English",
+                "game"
+            ],
+            "Free_Time": [
+                "Sat.15: 00~16: 00",
+                "Tue.13: 00~14: 00",
+                "Tue.9: 00~10: 00",
+                "Fri.9: 00~10: 00",
+                "Thu.9: 00~10: 00",
+                "Wed.9: 00~10: 00",
+                "Wed.21: 00~22: 00"
+            ],
+            "Choice": [
+                "D081",
+                "D063",
+                "D013"
+            ]
+        },
+        {
+            "Student_No": "S031501341",
+            "Student_Name": "I484",
+            "Sex": "female",
+            "GPA": 2.196429967880249,
+            "Tags": [
+                "basketball",
+                "dancing"
+            ],
+            "Free_Time": [
+                "Mon.21: 00~22: 00",
+                "Wed.9: 00~10: 00",
+                "Tue.16: 00~17: 00",
+                "Thu.16: 00~17: 00",
+                "Sun.15: 00~16: 00",
+                "Thu.15: 00~16: 00",
+                "Tue.20: 00~21: 00",
+                "Sun.20: 00~21: 00"
+            ],
+            "Choice": [
+                "D092",
+                "D013",
+                "D012",
+                "D046",
+                "D081"
+            ]
+        },
+        {
+            "Student_No": "S031505354",
+            "Student_Name": "X624",
+            "Sex": "female",
+            "GPA": 4.074619770050049,
+            "Tags": [
+                "document",
+                "English",
+                "sports"
+            ],
+            "Free_Time": [
+                "Mon.9: 00~10: 00",
+                "Wed.9: 00~10: 00",
+                "Wed.16: 00~17: 00",
+                "Sat.20: 00~21: 00",
+                "Sun.15: 00~16: 00",
+                "Sat.9: 00~10: 00",
+                "Fri.16: 00~17: 00",
+                "Tue.13: 00~14: 00",
+                "Tue.15: 00~16: 00"
+            ],
+            "Choice": [
+                "D012",
+                "D063",
+                "D014",
+                "D092",
+                "D013"
+            ]
+        },
+        {
+            "Student_No": "S031507253",
+            "Student_Name": "G488",
+            "Sex": "female",
+            "GPA": 3.284480094909668,
+            "Tags": [
+                "reading",
+                "programing"
+            ],
+            "Free_Time": [
+                "Tue.19: 00~20: 00",
+                "Fri.15: 00~16: 00",
+                "Sun.9: 00~10: 00",
+                "Sat.10: 00~11: 00",
+                "Thu.9: 00~10: 00",
+                "Tue.14: 00~15: 00",
+                "Sat.21: 00~22: 00",
+                "Mon.13: 00~14: 00"
+            ],
+            "Choice": [
+                "D014",
+                "D012",
+                "D049",
+                "D027",
+                "D084"
+            ]
+        },
+        {
+            "Student_No": "S031501728",
+            "Student_Name": "Y433",
+            "Sex": "female",
+            "GPA": 1.0012099742889405,
+            "Tags": [
+                "music",
+                "programing"
+            ],
+            "Free_Time": [
+                "Sat.13: 00~14: 00",
+                "Thu.9: 00~10: 00",
+                "Wed.21: 00~22: 00",
+                "Sat.21: 00~22: 00",
+                "Sun.14: 00~15: 00",
+                "Tue.20: 00~21: 00",
+                "Tue.9: 00~10: 00",
+                "Mon.20: 00~21: 00",
+                "Thu.20: 00~21: 00",
+                "Fri.20: 00~21: 00"
+            ],
+            "Choice": [
+                "D092",
+                "D063",
+                "D084"
+            ]
+        },
+        {
+            "Student_No": "S031508120",
+            "Student_Name": "O296",
+            "Sex": "female",
+            "GPA": 2.040440082550049,
+            "Tags": [
+                "programing",
+                "film",
+                "hiking",
+                "swimming"
+            ],
+            "Free_Time": [
+                "Fri.14: 00~15: 00",
+                "Sun.16: 00~17: 00",
+                "Sat.9: 00~10: 00",
+                "Fri.9: 00~10: 00"
+            ],
+            "Choice": [
+                "D013",
+                "D009"
+            ]
+        },
+        {
+            "Student_No": "S031508401",
+            "Student_Name": "N791",
+            "Sex": "male",
+            "GPA": 3.130850076675415,
+            "Tags": [
+                "basketball",
+                "dancing",
+                "English"
+            ],
+            "Free_Time": [
+                "Sat.10: 00~11: 00",
+                "Tue.16: 00~17: 00",
+                "Sat.9: 00~10: 00",
+                "Mon.13: 00~14: 00",
+                "Tue.13: 00~14: 00",
+                "Thu.21: 00~22: 00"
+            ],
+            "Choice": [
+                "D092",
+                "D052",
+                "D084",
+                "D009"
+            ]
+        },
+        {
+            "Student_No": "S031506008",
+            "Student_Name": "C565",
+            "Sex": "female",
+            "GPA": 3.0748300552368166,
+            "Tags": [
+                "sports",
+                "English",
+                "programing"
+            ],
+            "Free_Time": [
+                "Thu.13: 00~14: 00",
+                "Fri.15: 00~16: 00",
+                "Tue.20: 00~21: 00",
+                "Sun.20: 00~21: 00",
+                "Mon.19: 00~20: 00",
+                "Sun.13: 00~14: 00",
+                "Thu.9: 00~10: 00",
+                "Mon.9: 00~10: 00",
+                "Sun.9: 00~10: 00",
+                "Wed.13: 00~14: 00"
+            ],
+            "Choice": [
+                "D013",
+                "D021",
+                "D091",
+                "D062"
+            ]
+        },
+        {
+            "Student_No": "S031503828",
+            "Student_Name": "J208",
+            "Sex": "female",
+            "GPA": 4.282289981842041,
+            "Tags": [
+                "swimming",
+                "running",
+                "English",
+                "film"
+            ],
+            "Free_Time": [
+                "Sat.20: 00~21: 00",
+                "Sun.13: 00~14: 00",
+                "Sun.20: 00~21: 00",
+                "Mon.15: 00~16: 00"
+            ],
+            "Choice": [
+                "D081",
+                "D055"
+            ]
+        }
+    ]
+}
